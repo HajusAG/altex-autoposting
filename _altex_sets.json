@@ -1,0 +1,4914 @@
+[
+  {
+    "id": 1168,
+    "name": "Accesorii diverse si tuning auto"
+  },
+  {
+    "id": 456,
+    "name": "Masini si vehicule copii"
+  },
+  {
+    "id": 510,
+    "name": "Sanie, Bob, Placa zapada si accesorii"
+  },
+  {
+    "id": 508,
+    "name": "Triciclete"
+  },
+  {
+    "id": 509,
+    "name": "Trotinete clasice adulti-copii"
+  },
+  {
+    "id": 784,
+    "name": "Casti sport, cozoroc si bureti"
+  },
+  {
+    "id": 696,
+    "name": "Leagane copii"
+  },
+  {
+    "id": 773,
+    "name": "Tobogane copii"
+  },
+  {
+    "id": 451,
+    "name": "Jocuri de constructii si Puzzle"
+  },
+  {
+    "id": 507,
+    "name": "Jucarii de plus"
+  },
+  {
+    "id": 638,
+    "name": "Masinute, Trenulete, Avioane, Drone, Roboti, Accesorii"
+  },
+  {
+    "id": 506,
+    "name": "Papusi si accesorii"
+  },
+  {
+    "id": 831,
+    "name": "Scaune copii bicicleta"
+  },
+  {
+    "id": 772,
+    "name": "Colaci, barcute si accesorii gonflabile inot copii"
+  },
+  {
+    "id": 513,
+    "name": "Corturi si casute copii"
+  },
+  {
+    "id": 514,
+    "name": "Jucarii pentru plaja"
+  },
+  {
+    "id": 774,
+    "name": "Balansoare copii"
+  },
+  {
+    "id": 512,
+    "name": "Locuri-Spatii de joaca si accesorii"
+  },
+  {
+    "id": 511,
+    "name": "Role"
+  },
+  {
+    "id": 409,
+    "name": "Skateboard, longboard, waveboard"
+  },
+  {
+    "id": 292,
+    "name": "Biciclete copii"
+  },
+  {
+    "id": 584,
+    "name": "Covoare copii"
+  },
+  {
+    "id": 697,
+    "name": "Piscine copii"
+  },
+  {
+    "id": 775,
+    "name": "Zmeu si jucarii zburatoare"
+  },
+  {
+    "id": 475,
+    "name": "Jocuri de societate"
+  },
+  {
+    "id": 474,
+    "name": "Jocuri educative - Jocuri creative - Jocuri de memorie"
+  },
+  {
+    "id": 376,
+    "name": "Jucarii: Bebelusi/Educative/Creative/Interactive/De rol/Figurine"
+  },
+  {
+    "id": 425,
+    "name": "Trambuline si accesorii"
+  },
+  {
+    "id": 412,
+    "name": "Benzi de alergat"
+  },
+  {
+    "id": 411,
+    "name": "Biciclete fitness"
+  },
+  {
+    "id": 410,
+    "name": "Aparate fitness multifunctionale"
+  },
+  {
+    "id": 721,
+    "name": "Haltere, gantere si greutati"
+  },
+  {
+    "id": 291,
+    "name": "Biciclete adulti"
+  },
+  {
+    "id": 718,
+    "name": "Mingi gimnastica si masaj"
+  },
+  {
+    "id": 436,
+    "name": "Schiuri"
+  },
+  {
+    "id": 776,
+    "name": "Bauturi - Vinuri"
+  },
+  {
+    "id": 334,
+    "name": "Bauturi fine"
+  },
+  {
+    "id": 777,
+    "name": "Bauturi  - Bere"
+  },
+  {
+    "id": 794,
+    "name": "Bauturi - Sucuri, Limonada, Energizante"
+  },
+  {
+    "id": 779,
+    "name": "Bauturi - Apa plata"
+  },
+  {
+    "id": 795,
+    "name": "Bauturi - Siropuri"
+  },
+  {
+    "id": 397,
+    "name": "Echipament sportiv adulti"
+  },
+  {
+    "id": 691,
+    "name": "Mingi: Fotbal, Bachet, Volei, Handbal, Fluturasi, Tenis "
+  },
+  {
+    "id": 603,
+    "name": "Fotolii si tabureti living"
+  },
+  {
+    "id": 687,
+    "name": "Lenjerii de pat"
+  },
+  {
+    "id": 815,
+    "name": "Lumini bicicleta: far, stop, dinam"
+  },
+  {
+    "id": 720,
+    "name": "Aparatori si protectii corporale"
+  },
+  {
+    "id": 692,
+    "name": "Pompe de umflat"
+  },
+  {
+    "id": 438,
+    "name": "Placi snowboard"
+  },
+  {
+    "id": 789,
+    "name": "Aparate, banci si roti abdomene"
+  },
+  {
+    "id": 406,
+    "name": "Boots Snowboard"
+  },
+  {
+    "id": 783,
+    "name": "Legaturi ski si snowboard"
+  },
+  {
+    "id": 785,
+    "name": "Accesorii schi si snowboard"
+  },
+  {
+    "id": 699,
+    "name": "Saci Box sporturi de contact"
+  },
+  {
+    "id": 799,
+    "name": "Manusi sport"
+  },
+  {
+    "id": 719,
+    "name": "Ochelari sport si lentile"
+  },
+  {
+    "id": 693,
+    "name": "Bord-uri de darts"
+  },
+  {
+    "id": 788,
+    "name": "Aparate de vaslit"
+  },
+  {
+    "id": 414,
+    "name": "Steppere"
+  },
+  {
+    "id": 415,
+    "name": "Saltele fitness - antrenament"
+  },
+  {
+    "id": 790,
+    "name": "Centuri de slabit si intretinere"
+  },
+  {
+    "id": 792,
+    "name": "Flexoare, extensoare si benzi elastice"
+  },
+  {
+    "id": 88,
+    "name": "Aparate de masaj si vibromasaj"
+  },
+  {
+    "id": 793,
+    "name": "Aparate si bare de tractiuni"
+  },
+  {
+    "id": 694,
+    "name": "Accesorii fitness: chingi, inele, disc, cerc, protectii, suport, etc"
+  },
+  {
+    "id": 424,
+    "name": "Mese de ping pong"
+  },
+  {
+    "id": 762,
+    "name": "Palete tenis de masa"
+  },
+  {
+    "id": 695,
+    "name": "Rachete Tenis si Badminton"
+  },
+  {
+    "id": 796,
+    "name": "Racordaje rachete tenis"
+  },
+  {
+    "id": 797,
+    "name": "Gripuri si overgripuri"
+  },
+  {
+    "id": 763,
+    "name": "Fileuri sportive si accesorii fileu"
+  },
+  {
+    "id": 798,
+    "name": "Accesorii tenis si sporturi cu paleta"
+  },
+  {
+    "id": 698,
+    "name": "Cosuri si panouri baschet"
+  },
+  {
+    "id": 700,
+    "name": "Bate si seturi baseball"
+  },
+  {
+    "id": 780,
+    "name": "Articole pentru suporteri"
+  },
+  {
+    "id": 800,
+    "name": "Crose si seturi golf"
+  },
+  {
+    "id": 801,
+    "name": "Accesorii golf"
+  },
+  {
+    "id": 363,
+    "name": "Saltele"
+  },
+  {
+    "id": 368,
+    "name": "Pilote"
+  },
+  {
+    "id": 459,
+    "name": "Toppere"
+  },
+  {
+    "id": 455,
+    "name": "Perne clasice si decorative"
+  },
+  {
+    "id": 820,
+    "name": "Protectii saltea"
+  },
+  {
+    "id": 821,
+    "name": "Somiere"
+  },
+  {
+    "id": 688,
+    "name": "Paturi si cuverturi"
+  },
+  {
+    "id": 738,
+    "name": "Covoare casa"
+  },
+  {
+    "id": 739,
+    "name": "Covorase baie"
+  },
+  {
+    "id": 746,
+    "name": "Fete de masa"
+  },
+  {
+    "id": 745,
+    "name": "Prosoape"
+  },
+  {
+    "id": 360,
+    "name": "Cantare de bebelusi si copii"
+  },
+  {
+    "id": 369,
+    "name": "Scaune auto copii"
+  },
+  {
+    "id": 378,
+    "name": "Carucioare copii"
+  },
+  {
+    "id": 519,
+    "name": "Portbebe si landouri"
+  },
+  {
+    "id": 520,
+    "name": "Marsupii si hamuri copii"
+  },
+  {
+    "id": 503,
+    "name": "Accesorii transport copii"
+  },
+  {
+    "id": 373,
+    "name": "Balansoare, leagane si hamace bebelusi"
+  },
+  {
+    "id": 379,
+    "name": "Premergatoare"
+  },
+  {
+    "id": 374,
+    "name": "Scaune de masa bebe"
+  },
+  {
+    "id": 372,
+    "name": "Patut bebe"
+  },
+  {
+    "id": 461,
+    "name": "Lenjerii si huse patut"
+  },
+  {
+    "id": 365,
+    "name": "Biberoane, tetine si accesorii"
+  },
+  {
+    "id": 366,
+    "name": "Incalzitoare si termosuri bebelusi"
+  },
+  {
+    "id": 370,
+    "name": "Scutece si chilotei copii"
+  },
+  {
+    "id": 486,
+    "name": "Mese si saltele de infasat bebelusi"
+  },
+  {
+    "id": 443,
+    "name": "Aparate preparare hrana bebelusi"
+  },
+  {
+    "id": 444,
+    "name": "Servetele umede bebelusi"
+  },
+  {
+    "id": 473,
+    "name": "Genti bebelusi"
+  },
+  {
+    "id": 449,
+    "name": "Tarcuri copii"
+  },
+  {
+    "id": 407,
+    "name": "Sisteme de siguranta copii"
+  },
+  {
+    "id": 446,
+    "name": "Monitorizare video bebe"
+  },
+  {
+    "id": 377,
+    "name": "MonitorizareAudioBebe"
+  },
+  {
+    "id": 469,
+    "name": "Accesorii alaptare"
+  },
+  {
+    "id": 428,
+    "name": "Lampi de veghe si iluminat copii"
+  },
+  {
+    "id": 447,
+    "name": "Cosuri, cutii si acc. scutece"
+  },
+  {
+    "id": 465,
+    "name": "Crema, Lotiune, Ulei si Pudra pentru copii"
+  },
+  {
+    "id": 464,
+    "name": "Sampon, Balsam, Sapun, Gel de dus pentru copii"
+  },
+  {
+    "id": 467,
+    "name": "Igiena dentara copii"
+  },
+  {
+    "id": 462,
+    "name": "Paturici bebe"
+  },
+  {
+    "id": 466,
+    "name": "Haine gravide, articole post natale si lenjerie"
+  },
+  {
+    "id": 228,
+    "name": "Detergent si balsam rufe"
+  },
+  {
+    "id": 487,
+    "name": "Mobilier copii"
+  },
+  {
+    "id": 500,
+    "name": "Saltele copii"
+  },
+  {
+    "id": 501,
+    "name": "Accesorii diverse camera copilului"
+  },
+  {
+    "id": 818,
+    "name": "Cani, pahare, tacamuri si accesorii hranire bebe"
+  },
+  {
+    "id": 522,
+    "name": "Lapte praf bebelusi"
+  },
+  {
+    "id": 819,
+    "name": "Lapte - formule speciale"
+  },
+  {
+    "id": 523,
+    "name": "Cereale bebelusi"
+  },
+  {
+    "id": 524,
+    "name": "Piure, gustari si ceaiuri bebelusi"
+  },
+  {
+    "id": 367,
+    "name": "Sterilizatoare biberoane"
+  },
+  {
+    "id": 427,
+    "name": "Cadite si accesorii baie bebelusi"
+  },
+  {
+    "id": 470,
+    "name": "Suzete si accesorii"
+  },
+  {
+    "id": 402,
+    "name": "Olite si reductoare WC"
+  },
+  {
+    "id": 463,
+    "name": "Perne, pilote si pozitionatoare bebelusi"
+  },
+  {
+    "id": 502,
+    "name": "Prosoape si halate de baie pentru copii"
+  },
+  {
+    "id": 232,
+    "name": "Cafea, ciocolata"
+  },
+  {
+    "id": 384,
+    "name": "Tricouri sport adulti"
+  },
+  {
+    "id": 835,
+    "name": "Maiouri sport adulti"
+  },
+  {
+    "id": 385,
+    "name": "Bluze sport adulti"
+  },
+  {
+    "id": 836,
+    "name": "Hanorace sport adulti"
+  },
+  {
+    "id": 389,
+    "name": "Jachete si geci sport adulti"
+  },
+  {
+    "id": 388,
+    "name": "Veste sport adulti"
+  },
+  {
+    "id": 386,
+    "name": "Pantaloni si colanti sport adulti"
+  },
+  {
+    "id": 394,
+    "name": "Sosete sport adulti"
+  },
+  {
+    "id": 837,
+    "name": "Sepci, caciuli, bandane, cagule sport adulti si copii"
+  },
+  {
+    "id": 838,
+    "name": "Fulare si esarfe sport"
+  },
+  {
+    "id": 839,
+    "name": "Lenjerie intima sport"
+  },
+  {
+    "id": 840,
+    "name": "Sutiene si bustiere sport"
+  },
+  {
+    "id": 387,
+    "name": "Rochii si fuste sport femei"
+  },
+  {
+    "id": 841,
+    "name": "Tricouri, maiouri, bustiere sport copii"
+  },
+  {
+    "id": 842,
+    "name": "Hanorace si bluze sport copii"
+  },
+  {
+    "id": 843,
+    "name": "Jachete si geci sport copii"
+  },
+  {
+    "id": 844,
+    "name": "Pantaloni si colanti sport copii"
+  },
+  {
+    "id": 845,
+    "name": "Rochii si fuste sport fete"
+  },
+  {
+    "id": 846,
+    "name": "Echipament sportiv copii"
+  },
+  {
+    "id": 925,
+    "name": "Sosete sport copii"
+  },
+  {
+    "id": 359,
+    "name": "Pantofi, tenisi, ghete, cizme sport adulti si copii"
+  },
+  {
+    "id": 381,
+    "name": "Slapi si papuci sport adulti si copii"
+  },
+  {
+    "id": 382,
+    "name": "Sandale sport adulti si copii"
+  },
+  {
+    "id": 771,
+    "name": "Covorase intrare"
+  },
+  {
+    "id": 604,
+    "name": "Seturi mobila bucatarie"
+  },
+  {
+    "id": 605,
+    "name": "Mese bucatarie, living"
+  },
+  {
+    "id": 606,
+    "name": "Scaune casa si bar, taburet bucatarie"
+  },
+  {
+    "id": 1194,
+    "name": "Seturi mobila living si TV"
+  },
+  {
+    "id": 609,
+    "name": "Biblioteci, Etajere, Rafturi carti, Vitrine"
+  },
+  {
+    "id": 601,
+    "name": "Canapele - Coltari"
+  },
+  {
+    "id": 602,
+    "name": "Sifoniere si dulapuri"
+  },
+  {
+    "id": 611,
+    "name": "Paturi dormitor"
+  },
+  {
+    "id": 615,
+    "name": "Comode"
+  },
+  {
+    "id": 612,
+    "name": "Rafturi perete si polite"
+  },
+  {
+    "id": 610,
+    "name": "Cuiere"
+  },
+  {
+    "id": 613,
+    "name": "Pantofar"
+  },
+  {
+    "id": 959,
+    "name": "Accesorii si feronerie mobila"
+  },
+  {
+    "id": 957,
+    "name": "Dulapuri, vestiare si rafturi depozitare birou"
+  },
+  {
+    "id": 608,
+    "name": "Scaune de birou"
+  },
+  {
+    "id": 607,
+    "name": "Birouri, mese conferinta si roll-box"
+  },
+  {
+    "id": 263,
+    "name": "Seturi mobilier gradina"
+  },
+  {
+    "id": 968,
+    "name": "Mese gradina"
+  },
+  {
+    "id": 969,
+    "name": "Scaune si sezlonguri gradina"
+  },
+  {
+    "id": 759,
+    "name": "Balansoare, leagane, hamace si accesorii gradina"
+  },
+  {
+    "id": 760,
+    "name": "Casute de gradina, magazii, garaje"
+  },
+  {
+    "id": 761,
+    "name": "Dulapuri si lazi depozitare gradina"
+  },
+  {
+    "id": 807,
+    "name": "Garduri, panouri, sipci, stalpi"
+  },
+  {
+    "id": 748,
+    "name": "Perdele si draperii"
+  },
+  {
+    "id": 422,
+    "name": "Corturi camping"
+  },
+  {
+    "id": 826,
+    "name": "Saci de dormit"
+  },
+  {
+    "id": 750,
+    "name": "Tablouri"
+  },
+  {
+    "id": 309,
+    "name": "Masini de gaurit si insurubat"
+  },
+  {
+    "id": 179,
+    "name": "Accesorii bricolaj: Scule si unelte de mana - Insurubat-gaurit-taiat-frezat-slefuit "
+  },
+  {
+    "id": 317,
+    "name": "Acumulatori si incarcatoare scule electrice"
+  },
+  {
+    "id": 81,
+    "name": "Incarcatoare acumulatori tip baterie"
+  },
+  {
+    "id": 313,
+    "name": "Polizoare unghiulare"
+  },
+  {
+    "id": 311,
+    "name": "Ciocane rotopercutoare si demolatoare"
+  },
+  {
+    "id": 316,
+    "name": "Fierastraie electrice"
+  },
+  {
+    "id": 320,
+    "name": "Freze si rindele"
+  },
+  {
+    "id": 314,
+    "name": "Slefuitoare"
+  },
+  {
+    "id": 269,
+    "name": "Aparate de sudura"
+  },
+  {
+    "id": 651,
+    "name": "Accesorii aparate de sudura"
+  },
+  {
+    "id": 281,
+    "name": "Aparate de masura si accesorii"
+  },
+  {
+    "id": 329,
+    "name": "Pistoale si sisteme de vopsit"
+  },
+  {
+    "id": 318,
+    "name": "Pistoale cu aer cald"
+  },
+  {
+    "id": 264,
+    "name": "Compresoare"
+  },
+  {
+    "id": 672,
+    "name": "Accesorii compresoare"
+  },
+  {
+    "id": 276,
+    "name": "Aparate de lipit si capsat"
+  },
+  {
+    "id": 674,
+    "name": "Accesorii aparate de lipit si capsat"
+  },
+  {
+    "id": 939,
+    "name": "Cutii si organizatoare scule"
+  },
+  {
+    "id": 340,
+    "name": "Generatoare electrice"
+  },
+  {
+    "id": 351,
+    "name": "Echipamente de transport si ridicat"
+  },
+  {
+    "id": 670,
+    "name": "Betoniere"
+  },
+  {
+    "id": 758,
+    "name": "Scari de lucru"
+  },
+  {
+    "id": 673,
+    "name": "Scule pneumatice"
+  },
+  {
+    "id": 25,
+    "name": "Aspiratoare"
+  },
+  {
+    "id": 682,
+    "name": "Broaste si yale"
+  },
+  {
+    "id": 681,
+    "name": "Cilindri usa"
+  },
+  {
+    "id": 328,
+    "name": "Unelte multifunctionale"
+  },
+  {
+    "id": 652,
+    "name": "Menghine"
+  },
+  {
+    "id": 371,
+    "name": "Aparate aerosoli"
+  },
+  {
+    "id": 445,
+    "name": "Aspiratoare nazale"
+  },
+  {
+    "id": 137,
+    "name": "Termometre"
+  },
+  {
+    "id": 516,
+    "name": "Aplice, plafoniere si spoturi"
+  },
+  {
+    "id": 282,
+    "name": "Chiuvete bucatarie"
+  },
+  {
+    "id": 517,
+    "name": "Veioze si lampi de birou"
+  },
+  {
+    "id": 304,
+    "name": "Baterii sanitare"
+  },
+  {
+    "id": 515,
+    "name": "Lustre si pendule"
+  },
+  {
+    "id": 298,
+    "name": "Benzi Led"
+  },
+  {
+    "id": 518,
+    "name": "Iluminat decorativ exterior"
+  },
+  {
+    "id": 1159,
+    "name": "Lampi solare"
+  },
+  {
+    "id": 275,
+    "name": "Proiectoare si lampi de lucru"
+  },
+  {
+    "id": 272,
+    "name": "Lanterne"
+  },
+  {
+    "id": 296,
+    "name": "Becuri"
+  },
+  {
+    "id": 297,
+    "name": "Neoane"
+  },
+  {
+    "id": 656,
+    "name": "Lavoare si piedestale"
+  },
+  {
+    "id": 727,
+    "name": "Dispensere"
+  },
+  {
+    "id": 525,
+    "name": "Lampadare"
+  },
+  {
+    "id": 722,
+    "name": "Uscatoare de maini"
+  },
+  {
+    "id": 661,
+    "name": "Sisteme si seturi dus"
+  },
+  {
+    "id": 1017,
+    "name": "Pare si palarii dus"
+  },
+  {
+    "id": 1018,
+    "name": "Furtunuri dus"
+  },
+  {
+    "id": 662,
+    "name": "Cazi de baie"
+  },
+  {
+    "id": 1015,
+    "name": "Paravane cada"
+  },
+  {
+    "id": 663,
+    "name": "Vase toaleta"
+  },
+  {
+    "id": 1012,
+    "name": "Rezervoare WC"
+  },
+  {
+    "id": 1013,
+    "name": "Capace WC si bideu"
+  },
+  {
+    "id": 664,
+    "name": "Clapete wc si alte accesorii vase toaleta"
+  },
+  {
+    "id": 660,
+    "name": "Suporturi si accesorii baie"
+  },
+  {
+    "id": 858,
+    "name": "Lansete"
+  },
+  {
+    "id": 861,
+    "name": "Mulinete"
+  },
+  {
+    "id": 860,
+    "name": "Vergi, Undite pescuit"
+  },
+  {
+    "id": 862,
+    "name": "Carlige pescuit"
+  },
+  {
+    "id": 863,
+    "name": "Fire pescuit"
+  },
+  {
+    "id": 864,
+    "name": "Plute pescuit"
+  },
+  {
+    "id": 878,
+    "name": "Motoare si elice barci"
+  },
+  {
+    "id": 865,
+    "name": "Plumbi si momitoare"
+  },
+  {
+    "id": 877,
+    "name": "Saci si saltele pescuit"
+  },
+  {
+    "id": 866,
+    "name": "Momeli artificiale, naluci si jiguri"
+  },
+  {
+    "id": 867,
+    "name": "Nade si momeli"
+  },
+  {
+    "id": 876,
+    "name": "Accesorii pentru nadire pescuit"
+  },
+  {
+    "id": 868,
+    "name": "Mincioguri, cap, maner, plasa, plutitor"
+  },
+  {
+    "id": 875,
+    "name": "Unelte si accesorii monturi"
+  },
+  {
+    "id": 874,
+    "name": "Accesorii pescuit monturi-rapitor"
+  },
+  {
+    "id": 869,
+    "name": "Juvelnice"
+  },
+  {
+    "id": 873,
+    "name": "Avertizoare si semnalizatoare pescuit"
+  },
+  {
+    "id": 870,
+    "name": "Suporti si rod pod-uri"
+  },
+  {
+    "id": 872,
+    "name": "Sonare"
+  },
+  {
+    "id": 871,
+    "name": "Genti, Huse, Cutii organizatoare pescuit"
+  },
+  {
+    "id": 1052,
+    "name": "Vaze, boluri si platouri decorative"
+  },
+  {
+    "id": 341,
+    "name": "Trolere (Cabina: Sub 56 cm; Mediu: 57-69 cm; Mare: 70-79 cm; Extra-Large: Peste 80 cm)"
+  },
+  {
+    "id": 642,
+    "name": "Imbracaminte de protectie"
+  },
+  {
+    "id": 641,
+    "name": "Incaltaminte de protectie"
+  },
+  {
+    "id": 645,
+    "name": "Casti de protectie"
+  },
+  {
+    "id": 648,
+    "name": "Accesorii protectia muncii"
+  },
+  {
+    "id": 646,
+    "name": "Ochelari protectia muncii"
+  },
+  {
+    "id": 580,
+    "name": "Panouri fotovoltaice si solare"
+  },
+  {
+    "id": 266,
+    "name": "Aparate de spalat cu presiune"
+  },
+  {
+    "id": 675,
+    "name": "Accesorii aparate de spalat cu presiune"
+  },
+  {
+    "id": 854,
+    "name": "Gratare si afumatoare gradina"
+  },
+  {
+    "id": 270,
+    "name": "Masini de tuns iarba"
+  },
+  {
+    "id": 680,
+    "name": "Accesorii si consumabile masini de gradinarit"
+  },
+  {
+    "id": 344,
+    "name": "Fierastraie cu lant, Drujbe"
+  },
+  {
+    "id": 268,
+    "name": "Aspiratoare si suflante"
+  },
+  {
+    "id": 283,
+    "name": "Pompe de apa"
+  },
+  {
+    "id": 346,
+    "name": "Hidrofoare"
+  },
+  {
+    "id": 353,
+    "name": "Motosape si motocultoare"
+  },
+  {
+    "id": 352,
+    "name": "Masini de gradina: Tocator, Aerator, Scarificator, Despicator, Tavalug"
+  },
+  {
+    "id": 542,
+    "name": "Pistoale pentru stropit"
+  },
+  {
+    "id": 543,
+    "name": "Aspersoare"
+  },
+  {
+    "id": 545,
+    "name": "Programatoare stropire"
+  },
+  {
+    "id": 544,
+    "name": "Mufe, conectori si alte accesorii irigare"
+  },
+  {
+    "id": 541,
+    "name": "Furtunuri irigatii si gradina"
+  },
+  {
+    "id": 685,
+    "name": "Pompe de stropit, pulverizatoare si atomizoare"
+  },
+  {
+    "id": 127,
+    "name": "Statii meteo"
+  },
+  {
+    "id": 274,
+    "name": "Aparate, capcane, articole daunatori gradina"
+  },
+  {
+    "id": 284,
+    "name": "Freze de zapada"
+  },
+  {
+    "id": 678,
+    "name": "Lemne, peleti si brichete rumegus"
+  },
+  {
+    "id": 767,
+    "name": "Fose septice, statii epurare si separatoare"
+  },
+  {
+    "id": 880,
+    "name": "Rezervoare apa"
+  },
+  {
+    "id": 881,
+    "name": "Sisteme scurgere canalizare, camine vizitare si inspectie"
+  },
+  {
+    "id": 756,
+    "name": "Pavilioane terasa si gradina"
+  },
+  {
+    "id": 754,
+    "name": "Umbrele terasa - gradina si accesorii "
+  },
+  {
+    "id": 757,
+    "name": "Copertine si prelate terasa-gradina"
+  },
+  {
+    "id": 859,
+    "name": "Accesorii si decoratiuni gradina"
+  },
+  {
+    "id": 342,
+    "name": "Genti voiaj"
+  },
+  {
+    "id": 448,
+    "name": "Genti Office, Casual, si Serviete"
+  },
+  {
+    "id": 343,
+    "name": "Rucsacuri voiaj"
+  },
+  {
+    "id": 450,
+    "name": "Borsete"
+  },
+  {
+    "id": 361,
+    "name": "Portofele"
+  },
+  {
+    "id": 581,
+    "name": "Accesorii articole voiaj"
+  },
+  {
+    "id": 892,
+    "name": "Body-uri copii"
+  },
+  {
+    "id": 895,
+    "name": "Salopete copii"
+  },
+  {
+    "id": 894,
+    "name": "Sepci, caciuli, bandane, bentite, cagule copii"
+  },
+  {
+    "id": 614,
+    "name": "Noptiere"
+  },
+  {
+    "id": 904,
+    "name": "Rochii fete"
+  },
+  {
+    "id": 896,
+    "name": "Tricouri copii"
+  },
+  {
+    "id": 905,
+    "name": "Fuste fete"
+  },
+  {
+    "id": 908,
+    "name": "Pantaloni scurti copii"
+  },
+  {
+    "id": 906,
+    "name": "Pantaloni si blugi copii"
+  },
+  {
+    "id": 907,
+    "name": "Geci, jachete, veste copii"
+  },
+  {
+    "id": 903,
+    "name": "Compleuri copii"
+  },
+  {
+    "id": 1128,
+    "name": "Ceaiuri"
+  },
+  {
+    "id": 1195,
+    "name": "Seturi mobila dormitor"
+  },
+  {
+    "id": 737,
+    "name": "Cutii, cosuri depozitare"
+  },
+  {
+    "id": 630,
+    "name": "Cutii bijuterii si ceasuri"
+  },
+  {
+    "id": 286,
+    "name": "Seifuri si cutii valori"
+  },
+  {
+    "id": 1050,
+    "name": "Suport lumanari"
+  },
+  {
+    "id": 752,
+    "name": "Oglinzi decorative"
+  },
+  {
+    "id": 740,
+    "name": "Bibelouri, statuete si alte accesorii deco"
+  },
+  {
+    "id": 735,
+    "name": "Ghivece, jardiniere si suporturi"
+  },
+  {
+    "id": 751,
+    "name": "Ceasuri decorative"
+  },
+  {
+    "id": 190,
+    "name": "Rame foto clasice"
+  },
+  {
+    "id": 677,
+    "name": "Mobilier si oglinzi baie"
+  },
+  {
+    "id": 933,
+    "name": "Sere, solare si accesorii"
+  },
+  {
+    "id": 856,
+    "name": "Genti sport si fitness"
+  },
+  {
+    "id": 857,
+    "name": "Rucsacuri sport"
+  },
+  {
+    "id": 287,
+    "name": "Saci, accesorii si consumabile aspiratoare"
+  },
+  {
+    "id": 1023,
+    "name": "Oale sub presiune"
+  },
+  {
+    "id": 1032,
+    "name": "Oale si cratite"
+  },
+  {
+    "id": 1034,
+    "name": "Tigai si seturi"
+  },
+  {
+    "id": 1035,
+    "name": "Capace vase pentru gatit"
+  },
+  {
+    "id": 1067,
+    "name": "Tavi de copt"
+  },
+  {
+    "id": 1116,
+    "name": "Servicii de masa si seturi"
+  },
+  {
+    "id": 1079,
+    "name": "Boluri menaj"
+  },
+  {
+    "id": 1113,
+    "name": "Ibrice"
+  },
+  {
+    "id": 1118,
+    "name": "Tacamuri menaj"
+  },
+  {
+    "id": 1119,
+    "name": "Cani si cesti"
+  },
+  {
+    "id": 1060,
+    "name": "Pahare"
+  },
+  {
+    "id": 849,
+    "name": "Espressoare aragaz"
+  },
+  {
+    "id": 1114,
+    "name": "Ceainice si infuzoare"
+  },
+  {
+    "id": 1115,
+    "name": "Accesorii ceai"
+  },
+  {
+    "id": 1120,
+    "name": "Carafe si vase decantoare"
+  },
+  {
+    "id": 1083,
+    "name": "Termosuri"
+  },
+  {
+    "id": 1080,
+    "name": "Tavi si platouri de servit"
+  },
+  {
+    "id": 1082,
+    "name": "Caserole menaj"
+  },
+  {
+    "id": 1081,
+    "name": "Recipiente depozitare menaj"
+  },
+  {
+    "id": 1102,
+    "name": "Ascutitori cutite"
+  },
+  {
+    "id": 853,
+    "name": "Masini de tocat si macinat manuale"
+  },
+  {
+    "id": 1111,
+    "name": "Alte ustensile si accesorii bucatarie"
+  },
+  {
+    "id": 1101,
+    "name": "Cutite si seturi de cutite bucatarie"
+  },
+  {
+    "id": 1084,
+    "name": "Ustensile de gatit - la bucata"
+  },
+  {
+    "id": 1085,
+    "name": "Seturi ustensile de gatit"
+  },
+  {
+    "id": 1103,
+    "name": "Tocatoare-blaturi menaj"
+  },
+  {
+    "id": 1106,
+    "name": "Razatori manuale si accesorii razuire"
+  },
+  {
+    "id": 1104,
+    "name": "Site si strecuratori"
+  },
+  {
+    "id": 1107,
+    "name": "Ustensile de masurat"
+  },
+  {
+    "id": 1086,
+    "name": "Ustensile de curatare si feliere"
+  },
+  {
+    "id": 479,
+    "name": "Purificatoare"
+  },
+  {
+    "id": 476,
+    "name": "Umidificatoare"
+  },
+  {
+    "id": 478,
+    "name": "Dezumidificatoare"
+  },
+  {
+    "id": 668,
+    "name": "Difuzoare de arome"
+  },
+  {
+    "id": 254,
+    "name": "Centrale termice"
+  },
+  {
+    "id": 144,
+    "name": "Ventilatoare camera"
+  },
+  {
+    "id": 765,
+    "name": "Pompe de caldura"
+  },
+  {
+    "id": 31,
+    "name": "Boilere si Instanturi"
+  },
+  {
+    "id": 705,
+    "name": "Sobe, seminee, cazane combustibil"
+  },
+  {
+    "id": 708,
+    "name": "Calorifere termice otel si aluminiu"
+  },
+  {
+    "id": 244,
+    "name": "Dozatoare de apa"
+  },
+  {
+    "id": 741,
+    "name": "Filtre si sisteme de filtrare apa"
+  },
+  {
+    "id": 1066,
+    "name": "Ventilatoare baie"
+  },
+  {
+    "id": 39,
+    "name": "Calorifere electrice"
+  },
+  {
+    "id": 17,
+    "name": "Aeroterme si perdele de aer"
+  },
+  {
+    "id": 115,
+    "name": "Radiatoare si convectoare"
+  },
+  {
+    "id": 650,
+    "name": "Panouri radiante"
+  },
+  {
+    "id": 704,
+    "name": "Seminee electrice"
+  },
+  {
+    "id": 267,
+    "name": "Incalzitoare exterior"
+  },
+  {
+    "id": 703,
+    "name": "Incalzitoare corporale"
+  },
+  {
+    "id": 934,
+    "name": "Perdele dus"
+  },
+  {
+    "id": 483,
+    "name": "Accesorii si consumabile aparate cafea"
+  },
+  {
+    "id": 935,
+    "name": "Cereale, musli"
+  },
+  {
+    "id": 929,
+    "name": "Suplimente nutritie sportiva: Proteine, Aminoacizi, Carbohidrati, Creatina si alte suplimente"
+  },
+  {
+    "id": 480,
+    "name": "Accesorii si consumabile climatizare"
+  },
+  {
+    "id": 883,
+    "name": "Saltele camping si izopren"
+  },
+  {
+    "id": 848,
+    "name": "Accesorii camping si drumetii"
+  },
+  {
+    "id": 647,
+    "name": "Cosuri de gunoi"
+  },
+  {
+    "id": 631,
+    "name": "Brazi de craciun"
+  },
+  {
+    "id": 472,
+    "name": "Instalatii si ornamente de craciun"
+  },
+  {
+    "id": 550,
+    "name": "Hrana caini"
+  },
+  {
+    "id": 549,
+    "name": "Hrana pisici"
+  },
+  {
+    "id": 555,
+    "name": "Biscuiti, snacks si recompense animale"
+  },
+  {
+    "id": 556,
+    "name": "Castroane si recipiente hrana animale"
+  },
+  {
+    "id": 566,
+    "name": "Igiena dentara animale"
+  },
+  {
+    "id": 568,
+    "name": "Masini de tuns, trimmere, perii, foarfece si clesti animale"
+  },
+  {
+    "id": 633,
+    "name": "Accesorii aparate de bucatarie"
+  },
+  {
+    "id": 725,
+    "name": "Rafturi si suporturi bauturi"
+  },
+  {
+    "id": 1197,
+    "name": "Invertoare panouri fotovoltaice"
+  },
+  {
+    "id": 803,
+    "name": "Accesorii panouri solare si fotovoltaice"
+  },
+  {
+    "id": 962,
+    "name": "Mori cereale electrice si manuale"
+  },
+  {
+    "id": 960,
+    "name": "Suplimente alimentare, vitamine si minerale"
+  },
+  {
+    "id": 701,
+    "name": "Porti fotbal, polo, handbal"
+  },
+  {
+    "id": 963,
+    "name": "Amestecatoare si palete amestecare"
+  },
+  {
+    "id": 753,
+    "name": "NaproaneServeteSiSuporturiFarfurii"
+  },
+  {
+    "id": 769,
+    "name": "Sorturi bucatarie, gratar, bar"
+  },
+  {
+    "id": 715,
+    "name": "Accesorii vehicule electrice"
+  },
+  {
+    "id": 770,
+    "name": "ManusiBucatarieSiServeteTermice"
+  },
+  {
+    "id": 964,
+    "name": "Accesorii motosape si motocultoare"
+  },
+  {
+    "id": 653,
+    "name": "Cosuri rufe si ligheane"
+  },
+  {
+    "id": 133,
+    "name": "Telecomenzi"
+  },
+  {
+    "id": 811,
+    "name": "Sonerii bicicleta"
+  },
+  {
+    "id": 667,
+    "name": "Antifurt bicicleta"
+  },
+  {
+    "id": 829,
+    "name": "Ciclocomputere si GPS bicicleta"
+  },
+  {
+    "id": 830,
+    "name": "Benzi, veste si accesorii reflectorizante bicicleta"
+  },
+  {
+    "id": 823,
+    "name": "Vulcanizare, petice, solutii si leviere bicicleta"
+  },
+  {
+    "id": 806,
+    "name": "Cricuri biciclete"
+  },
+  {
+    "id": 824,
+    "name": "Oglinzi bicicleta"
+  },
+  {
+    "id": 809,
+    "name": "Cosuri si remorci biciclete"
+  },
+  {
+    "id": 810,
+    "name": "Portbagaje, genti, plase, elastice fixare bicicleta"
+  },
+  {
+    "id": 832,
+    "name": "Roti ajutatoare bicicleta"
+  },
+  {
+    "id": 833,
+    "name": "Suporturi depozitare bicicleta"
+  },
+  {
+    "id": 816,
+    "name": "Sa bicicleta"
+  },
+  {
+    "id": 817,
+    "name": "Huse sa bicicleta"
+  },
+  {
+    "id": 808,
+    "name": "Mansoane si ghidoline biciclete"
+  },
+  {
+    "id": 834,
+    "name": "Home trainer biciclete"
+  },
+  {
+    "id": 893,
+    "name": "Cauciucuri bicicleta"
+  },
+  {
+    "id": 828,
+    "name": "Camere roti bicicleta"
+  },
+  {
+    "id": 805,
+    "name": "Aparatori noroi bicicleta"
+  },
+  {
+    "id": 965,
+    "name": "Pedale biciclete"
+  },
+  {
+    "id": 970,
+    "name": "Canapele, banci si fotolii gradina"
+  },
+  {
+    "id": 974,
+    "name": "Mobilier profesional"
+  },
+  {
+    "id": 882,
+    "name": "Biciclete electrice"
+  },
+  {
+    "id": 747,
+    "name": "Halate baie"
+  },
+  {
+    "id": 554,
+    "name": "Suplimente nutritive animale"
+  },
+  {
+    "id": 548,
+    "name": "Diete veterinare"
+  },
+  {
+    "id": 557,
+    "name": "Zgarzi, lese si hamuri"
+  },
+  {
+    "id": 567,
+    "name": "Solutii antiparazitare animale"
+  },
+  {
+    "id": 565,
+    "name": "Sampon si balsam animale"
+  },
+  {
+    "id": 943,
+    "name": "Igiena ochi, urechi, corp animale"
+  },
+  {
+    "id": 571,
+    "name": "Asternuturi si substraturi animale"
+  },
+  {
+    "id": 944,
+    "name": "Solutii de curatat pete animale"
+  },
+  {
+    "id": 560,
+    "name": "Haine si incaltaminte pentru animale"
+  },
+  {
+    "id": 562,
+    "name": "Medalioane pentru animale"
+  },
+  {
+    "id": 561,
+    "name": "Jucarii animale"
+  },
+  {
+    "id": 570,
+    "name": "Culcusuri, perne si saltele animale"
+  },
+  {
+    "id": 563,
+    "name": "Genti si articole transport animale"
+  },
+  {
+    "id": 564,
+    "name": "Custi, tarcuri si colivii"
+  },
+  {
+    "id": 945,
+    "name": "Trepte si rampe animale"
+  },
+  {
+    "id": 558,
+    "name": "Echipament pentru dresaj"
+  },
+  {
+    "id": 559,
+    "name": "Solutii atractante si repelente"
+  },
+  {
+    "id": 569,
+    "name": "Litiere pisici"
+  },
+  {
+    "id": 958,
+    "name": "Accesorii litiere pisici"
+  },
+  {
+    "id": 946,
+    "name": "Ansambluri de catarat pisici si accesorii mobilier"
+  },
+  {
+    "id": 552,
+    "name": "Hrana pasari si rozatoare"
+  },
+  {
+    "id": 551,
+    "name": "Hrana pesti si reptile"
+  },
+  {
+    "id": 572,
+    "name": "Acvarii pesti si terarii reptile"
+  },
+  {
+    "id": 948,
+    "name": "Decoruri si plante artificiale acvarii si terarii"
+  },
+  {
+    "id": 947,
+    "name": "Solutii si tratamente acvarii"
+  },
+  {
+    "id": 956,
+    "name": "Filtre, skimmere si sterilizatoare acvarii"
+  },
+  {
+    "id": 954,
+    "name": "Pompe si accesorii acvarii"
+  },
+  {
+    "id": 955,
+    "name": "Incalzitoare, racitoare si ventilatoare acvarii si terarii"
+  },
+  {
+    "id": 950,
+    "name": "Iluminat acvarii si terarii"
+  },
+  {
+    "id": 951,
+    "name": "Hranitoare acvarii si terarii"
+  },
+  {
+    "id": 952,
+    "name": "Termometre acvarii si terarii"
+  },
+  {
+    "id": 949,
+    "name": "Nisipuri si substraturi acvarii si terarii"
+  },
+  {
+    "id": 953,
+    "name": "Produse curatare si igienizare acvarii si terarii"
+  },
+  {
+    "id": 967,
+    "name": "Accesorii ingrijire rozatoare"
+  },
+  {
+    "id": 966,
+    "name": "Vase expansiune si membrane"
+  },
+  {
+    "id": 813,
+    "name": "Suporturi pentru accesorii biciclete"
+  },
+  {
+    "id": 814,
+    "name": "Bidoane si shakere"
+  },
+  {
+    "id": 32,
+    "name": "Boxe audio Hi-Fi"
+  },
+  {
+    "id": 671,
+    "name": "Accesorii electronice auto"
+  },
+  {
+    "id": 210,
+    "name": "Accesorii gaming"
+  },
+  {
+    "id": 644,
+    "name": "Accesorii si consumabile electrocasnice mari"
+  },
+  {
+    "id": 80,
+    "name": "Incarcatoare laptop"
+  },
+  {
+    "id": 200,
+    "name": "Suporturi, accesorii diverse telefoane si wearables"
+  },
+  {
+    "id": 180,
+    "name": "Accesorii diverse tableta"
+  },
+  {
+    "id": 174,
+    "name": "Incarcatoare Smartphone si Tablete"
+  },
+  {
+    "id": 46,
+    "name": "Casti audio"
+  },
+  {
+    "id": 227,
+    "name": "Accesorii televizoare"
+  },
+  {
+    "id": 118,
+    "name": "Rame foto digitale"
+  },
+  {
+    "id": 986,
+    "name": "Produse vinificatie"
+  },
+  {
+    "id": 766,
+    "name": "Huse canapele, fotolii si scaune"
+  },
+  {
+    "id": 1138,
+    "name": "Suporturi ortopedice si orteze"
+  },
+  {
+    "id": 985,
+    "name": "Butuci roti bicicleta"
+  },
+  {
+    "id": 898,
+    "name": "Costume inot"
+  },
+  {
+    "id": 433,
+    "name": "Caiace, barci si gonflabile"
+  },
+  {
+    "id": 897,
+    "name": "Placi Windsurf si Stand Up Paddle "
+  },
+  {
+    "id": 900,
+    "name": "Labe inot"
+  },
+  {
+    "id": 899,
+    "name": "Masti si tuburi snorkeling"
+  },
+  {
+    "id": 804,
+    "name": "Plute inot si aquagym"
+  },
+  {
+    "id": 901,
+    "name": "Veste de salvare"
+  },
+  {
+    "id": 802,
+    "name": "Accesorii sporturi acvatice"
+  },
+  {
+    "id": 902,
+    "name": "Accesorii barci"
+  },
+  {
+    "id": 987,
+    "name": "Pamant flori, ingrasaminte si pesticide"
+  },
+  {
+    "id": 938,
+    "name": "Ingrediente pentru desert"
+  },
+  {
+    "id": 713,
+    "name": "Dulciuri si gustari sarate"
+  },
+  {
+    "id": 936,
+    "name": "Miere, dulceata si creme tartinabile"
+  },
+  {
+    "id": 1025,
+    "name": "Alimente de baza - Faina"
+  },
+  {
+    "id": 1026,
+    "name": "Alimente de baza - Zahar"
+  },
+  {
+    "id": 1027,
+    "name": "Alimente de baza - Ulei"
+  },
+  {
+    "id": 1028,
+    "name": "Alimente de baza - Otet si suc de lamaie"
+  },
+  {
+    "id": 1029,
+    "name": "Alimente de baza - Malai, gris, pesmet"
+  },
+  {
+    "id": 1030,
+    "name": "Alimente de baza - Orez"
+  },
+  {
+    "id": 712,
+    "name": "Legume uscate: Fasole, Linte, Naut, Mazare, Quinoa, Soia"
+  },
+  {
+    "id": 716,
+    "name": "Paste fainoase"
+  },
+  {
+    "id": 710,
+    "name": "Sare, condimente si mixuri"
+  },
+  {
+    "id": 709,
+    "name": "Conserve, compot, muraturi"
+  },
+  {
+    "id": 711,
+    "name": "Sosuri: Ketchup, Pasta tomate, Maioneza, Mustar, Sos paste, Alte sosuri"
+  },
+  {
+    "id": 940,
+    "name": "Brutarie, patiserie si cofetarie"
+  },
+  {
+    "id": 941,
+    "name": "ECO si diete speciale"
+  },
+  {
+    "id": 942,
+    "name": "Alimente internationale"
+  },
+  {
+    "id": 714,
+    "name": "Semipreparate"
+  },
+  {
+    "id": 990,
+    "name": "Parchet, linoleum si pardoseli"
+  },
+  {
+    "id": 152,
+    "name": "Receivere, Playere, Mixere, Monitoare, Controllere audio"
+  },
+  {
+    "id": 159,
+    "name": "AmplificatoareAudio"
+  },
+  {
+    "id": 84,
+    "name": "Playere MP3, MP4"
+  },
+  {
+    "id": 471,
+    "name": "EchipamenteDj"
+  },
+  {
+    "id": 183,
+    "name": "Pick Up"
+  },
+  {
+    "id": 333,
+    "name": "Radio"
+  },
+  {
+    "id": 992,
+    "name": "Convertoare audio DAC"
+  },
+  {
+    "id": 485,
+    "name": "Carti"
+  },
+  {
+    "id": 989,
+    "name": "Carti didactice si manuale"
+  },
+  {
+    "id": 988,
+    "name": "Carti pentru copii"
+  },
+  {
+    "id": 991,
+    "name": "Carti audio"
+  },
+  {
+    "id": 996,
+    "name": "Incalzire pardoseala"
+  },
+  {
+    "id": 909,
+    "name": "Costume de baie copii"
+  },
+  {
+    "id": 302,
+    "name": "Parfumuri"
+  },
+  {
+    "id": 999,
+    "name": "Accesorii si rezerve aparate de ras"
+  },
+  {
+    "id": 994,
+    "name": "Periute de dinti clasice"
+  },
+  {
+    "id": 574,
+    "name": "Pasta de dinti si apa de gura"
+  },
+  {
+    "id": 453,
+    "name": "Scutece adulti si chiloti incontinenta"
+  },
+  {
+    "id": 331,
+    "name": "Gel de dus"
+  },
+  {
+    "id": 336,
+    "name": "Sapunuri"
+  },
+  {
+    "id": 319,
+    "name": "Deodorant si Antiperspirant"
+  },
+  {
+    "id": 330,
+    "name": "Crema, lotiune si ulei de corp + produse protectie solara"
+  },
+  {
+    "id": 349,
+    "name": "Ceara, benzi si creme depilatoare"
+  },
+  {
+    "id": 357,
+    "name": "Tratament si ingrijire corp"
+  },
+  {
+    "id": 105,
+    "name": "Oglinzi cosmetice"
+  },
+  {
+    "id": 305,
+    "name": "Oja si lac de unghii"
+  },
+  {
+    "id": 307,
+    "name": "Tratament si dizolvanti unghii"
+  },
+  {
+    "id": 87,
+    "name": "Aparate manichiura-pedichiura si accesorii"
+  },
+  {
+    "id": 354,
+    "name": "Curatare si demachiere"
+  },
+  {
+    "id": 326,
+    "name": "Creme hidratante si antirid"
+  },
+  {
+    "id": 356,
+    "name": "Masti, exfoliant, scrub, gomaje fata"
+  },
+  {
+    "id": 348,
+    "name": "Servetele igiena intima"
+  },
+  {
+    "id": 337,
+    "name": "Aftershave"
+  },
+  {
+    "id": 1003,
+    "name": "Lotiuni, geluri si deodorante igiena intima"
+  },
+  {
+    "id": 338,
+    "name": "Spuma si gel de ras"
+  },
+  {
+    "id": 358,
+    "name": "Servetele si dischete demachiante"
+  },
+  {
+    "id": 1005,
+    "name": "Seruri si tratamente pentru ten"
+  },
+  {
+    "id": 335,
+    "name": "Sampon de par"
+  },
+  {
+    "id": 995,
+    "name": "Balsam de par"
+  },
+  {
+    "id": 997,
+    "name": "Vopsea de par, nuantator si oxidanti"
+  },
+  {
+    "id": 355,
+    "name": "Masti si tratamente par"
+  },
+  {
+    "id": 332,
+    "name": "Fixativ, Spuma si Gel de par"
+  },
+  {
+    "id": 521,
+    "name": "Accesorii machiaj - Gene false"
+  },
+  {
+    "id": 308,
+    "name": "Fond de ten si Primer (Baza machiaj)"
+  },
+  {
+    "id": 323,
+    "name": "Anticearcan si corector "
+  },
+  {
+    "id": 488,
+    "name": "Pensule si aplicatoare machiaj"
+  },
+  {
+    "id": 442,
+    "name": "Truse si seturi machiaj"
+  },
+  {
+    "id": 324,
+    "name": "Iluminator si contur"
+  },
+  {
+    "id": 325,
+    "name": "Stilizare sprancene"
+  },
+  {
+    "id": 322,
+    "name": "Pudra si fard de obraz"
+  },
+  {
+    "id": 310,
+    "name": "Ruj, balsam, luciu si creion de buze"
+  },
+  {
+    "id": 315,
+    "name": "Fard de pleoape si primer"
+  },
+  {
+    "id": 312,
+    "name": "Mascara"
+  },
+  {
+    "id": 321,
+    "name": "Creion si tus de ochi"
+  },
+  {
+    "id": 998,
+    "name": "Mese biliard"
+  },
+  {
+    "id": 888,
+    "name": "Busole"
+  },
+  {
+    "id": 1004,
+    "name": "Spumant si sare de baie"
+  },
+  {
+    "id": 585,
+    "name": "Plasturi medicali"
+  },
+  {
+    "id": 781,
+    "name": "Fete de perna"
+  },
+  {
+    "id": 1046,
+    "name": "Pile cosmetice clasice, piatra ponce, buffer, razuitor calcaie"
+  },
+  {
+    "id": 256,
+    "name": "Vehicule electrice - Scutere, Trotinete, Hoverboard"
+  },
+  {
+    "id": 1010,
+    "name": "Accesorii chiuvete"
+  },
+  {
+    "id": 1011,
+    "name": "Accesorii baterii sanitare"
+  },
+  {
+    "id": 1014,
+    "name": "Perii WC"
+  },
+  {
+    "id": 1006,
+    "name": "Cabine de dus"
+  },
+  {
+    "id": 1007,
+    "name": "Cadite de dus"
+  },
+  {
+    "id": 1008,
+    "name": "Paravane, usi si pereti dus"
+  },
+  {
+    "id": 1009,
+    "name": "Accesorii si piese de schimb cabine de dus"
+  },
+  {
+    "id": 1016,
+    "name": "Masti, suporti si accesorii cazi baie"
+  },
+  {
+    "id": 1019,
+    "name": "Accesorii dus: Suport, brat, duza si altele"
+  },
+  {
+    "id": 891,
+    "name": "Dusuri portabile"
+  },
+  {
+    "id": 1020,
+    "name": "Usi interior"
+  },
+  {
+    "id": 1097,
+    "name": "Odorizant camera"
+  },
+  {
+    "id": 1021,
+    "name": "Mese de toaleta si machiaj"
+  },
+  {
+    "id": 1022,
+    "name": "Rigole dus si gratare scurgere"
+  },
+  {
+    "id": 993,
+    "name": "Rezerve si accesorii periute de dinti si irigatoare"
+  },
+  {
+    "id": 1024,
+    "name": "Accesorii sobe si seminee"
+  },
+  {
+    "id": 855,
+    "name": "Carucioare si cosuri cumparaturi"
+  },
+  {
+    "id": 293,
+    "name": "Masini de facut paste si accesorii"
+  },
+  {
+    "id": 782,
+    "name": "Bete schi"
+  },
+  {
+    "id": 437,
+    "name": "Clapari"
+  },
+  {
+    "id": 403,
+    "name": "Patine"
+  },
+  {
+    "id": 847,
+    "name": "Cutite si bricege"
+  },
+  {
+    "id": 886,
+    "name": "Iluminat camping"
+  },
+  {
+    "id": 850,
+    "name": "Aragazuri, arzatoare si butelii camping"
+  },
+  {
+    "id": 887,
+    "name": "Bete trekking"
+  },
+  {
+    "id": 890,
+    "name": "Toalete portabile"
+  },
+  {
+    "id": 889,
+    "name": "Accesorii corturi"
+  },
+  {
+    "id": 937,
+    "name": "Mese foosball, air hockey si multi joc"
+  },
+  {
+    "id": 429,
+    "name": "Seturi poker"
+  },
+  {
+    "id": 655,
+    "name": "Maturi, Mopuri, Galeti, Consumabile"
+  },
+  {
+    "id": 1036,
+    "name": "Kimono"
+  },
+  {
+    "id": 1044,
+    "name": "Cearceafuri de pat"
+  },
+  {
+    "id": 1045,
+    "name": "Huse pilote"
+  },
+  {
+    "id": 619,
+    "name": "Saci menajeri"
+  },
+  {
+    "id": 621,
+    "name": "Bureti vase, lavete si perii bucatarie"
+  },
+  {
+    "id": 202,
+    "name": "Kit-uri supraveghere"
+  },
+  {
+    "id": 182,
+    "name": "Camere supraveghere"
+  },
+  {
+    "id": 676,
+    "name": "Accesorii sisteme supraveghere si monitorizare"
+  },
+  {
+    "id": 253,
+    "name": "Centrale, senzori, elemente de control"
+  },
+  {
+    "id": 204,
+    "name": "Sisteme de alarma si accesorii"
+  },
+  {
+    "id": 203,
+    "name": "Sonerii, interfoane, videointerfoane"
+  },
+  {
+    "id": 971,
+    "name": "Frane bicicleta"
+  },
+  {
+    "id": 972,
+    "name": "Furci si amortizoare biciclete"
+  },
+  {
+    "id": 973,
+    "name": "Roti complete bicicleta"
+  },
+  {
+    "id": 975,
+    "name": "Ghidoane bicicleta"
+  },
+  {
+    "id": 976,
+    "name": "Schimbatoare bicicleta"
+  },
+  {
+    "id": 977,
+    "name": "Manete schimbator si frana bicicleta"
+  },
+  {
+    "id": 978,
+    "name": "Pinioane bicicleta"
+  },
+  {
+    "id": 979,
+    "name": "Tije si coliere sa bicicleta"
+  },
+  {
+    "id": 981,
+    "name": "Pipe ghidon"
+  },
+  {
+    "id": 982,
+    "name": "Jante bicicleta"
+  },
+  {
+    "id": 983,
+    "name": "Angrenaje si butuci pedalieri"
+  },
+  {
+    "id": 248,
+    "name": "Anvelope auto"
+  },
+  {
+    "id": 247,
+    "name": "Jante auto"
+  },
+  {
+    "id": 736,
+    "name": "Roti complete auto"
+  },
+  {
+    "id": 1191,
+    "name": "Echipamente si accesorii service roti"
+  },
+  {
+    "id": 303,
+    "name": "Baterii auto-moto"
+  },
+  {
+    "id": 201,
+    "name": "Becuri auto"
+  },
+  {
+    "id": 1162,
+    "name": "Compresoare auto"
+  },
+  {
+    "id": 683,
+    "name": "Redresoare auto si cabluri de pornire"
+  },
+  {
+    "id": 578,
+    "name": "Bare transversale"
+  },
+  {
+    "id": 577,
+    "name": "Cutii portbagaj"
+  },
+  {
+    "id": 575,
+    "name": "Suport auto biciclete"
+  },
+  {
+    "id": 576,
+    "name": "Suport auto ski"
+  },
+  {
+    "id": 730,
+    "name": "Frigidere si lazi frigorifice auto"
+  },
+  {
+    "id": 626,
+    "name": "Protectii portbagaj"
+  },
+  {
+    "id": 649,
+    "name": "Covorase auto"
+  },
+  {
+    "id": 301,
+    "name": "Huse si prelate auto"
+  },
+  {
+    "id": 616,
+    "name": "Cotiere auto"
+  },
+  {
+    "id": 1165,
+    "name": "Paravanturi auto"
+  },
+  {
+    "id": 617,
+    "name": "Kit-uri siguranta auto"
+  },
+  {
+    "id": 618,
+    "name": "Sisteme tractare si chingi auto"
+  },
+  {
+    "id": 1057,
+    "name": "Raclete si lopeti auto"
+  },
+  {
+    "id": 1169,
+    "name": "Pachete revizie auto-moto"
+  },
+  {
+    "id": 246,
+    "name": "Piese auto-moto"
+  },
+  {
+    "id": 299,
+    "name": "Ulei motor"
+  },
+  {
+    "id": 1190,
+    "name": "Solutii intretinere exterior auto"
+  },
+  {
+    "id": 1175,
+    "name": "Aditivi, vaselina auto"
+  },
+  {
+    "id": 1170,
+    "name": "Lavete, bureti si perii auto"
+  },
+  {
+    "id": 684,
+    "name": "Stergatoare auto"
+  },
+  {
+    "id": 1173,
+    "name": "Placute frana auto-moto"
+  },
+  {
+    "id": 1174,
+    "name": "Bujii auto-moto"
+  },
+  {
+    "id": 1179,
+    "name": "Ulei cutie viteze"
+  },
+  {
+    "id": 1177,
+    "name": "Lichid de frana"
+  },
+  {
+    "id": 1176,
+    "name": "Lichid de parbriz"
+  },
+  {
+    "id": 191,
+    "name": "Camere auto DVR"
+  },
+  {
+    "id": 156,
+    "name": "Statii emisie receptie si accesorii"
+  },
+  {
+    "id": 48,
+    "name": "Playere auto"
+  },
+  {
+    "id": 33,
+    "name": "Boxe auto si subwoofere"
+  },
+  {
+    "id": 279,
+    "name": "Amplificatoare auto"
+  },
+  {
+    "id": 99,
+    "name": "Modulator FM"
+  },
+  {
+    "id": 60,
+    "name": "Detectoare radar"
+  },
+  {
+    "id": 300,
+    "name": "Alarme si senzori de parcare"
+  },
+  {
+    "id": 278,
+    "name": "Insonorizant auto"
+  },
+  {
+    "id": 74,
+    "name": "Sisteme GPS"
+  },
+  {
+    "id": 1049,
+    "name": "Lumanari si candele"
+  },
+  {
+    "id": 499,
+    "name": "Masti, palarii, costume carnaval"
+  },
+  {
+    "id": 1051,
+    "name": "Vesela, tacamuri, fete de masa si prosoape pentru petrecere"
+  },
+  {
+    "id": 1056,
+    "name": "Accesorii pentru petrecere"
+  },
+  {
+    "id": 1055,
+    "name": "Coifuri, trompete si suflatori"
+  },
+  {
+    "id": 1054,
+    "name": "Bannere si ghirlande decorative"
+  },
+  {
+    "id": 1053,
+    "name": "Lampioane"
+  },
+  {
+    "id": 1048,
+    "name": "Artificii si confetti"
+  },
+  {
+    "id": 1047,
+    "name": "Baloane si accesorii baloane"
+  },
+  {
+    "id": 12,
+    "name": "Acumulatori tip baterie si ups"
+  },
+  {
+    "id": 1031,
+    "name": "Power station"
+  },
+  {
+    "id": 110,
+    "name": "Prelungitoare"
+  },
+  {
+    "id": 1059,
+    "name": "Stechere, cuple, fise si adaptoare priza"
+  },
+  {
+    "id": 27,
+    "name": "Baterii"
+  },
+  {
+    "id": 1058,
+    "name": "Prize"
+  },
+  {
+    "id": 728,
+    "name": "Tablouri electrice si contoare"
+  },
+  {
+    "id": 733,
+    "name": "Intrerupatoare"
+  },
+  {
+    "id": 732,
+    "name": "Accesorii prize si intrerupatoare"
+  },
+  {
+    "id": 731,
+    "name": "Sigurante electrice"
+  },
+  {
+    "id": 1061,
+    "name": "Cabluri electrice, conductori si canale"
+  },
+  {
+    "id": 1062,
+    "name": "Accesorii tablouri electrice"
+  },
+  {
+    "id": 280,
+    "name": "Stabilizatoare tensiune si alimentatoare universale"
+  },
+  {
+    "id": 95,
+    "name": "Microfoane"
+  },
+  {
+    "id": 36,
+    "name": "Cabluri si adaptoare audio"
+  },
+  {
+    "id": 339,
+    "name": "Uscatoare de rufe clasice"
+  },
+  {
+    "id": 1070,
+    "name": "Microcontrollere si procesoare robotica"
+  },
+  {
+    "id": 768,
+    "name": "Kit-uri roboti"
+  },
+  {
+    "id": 1071,
+    "name": "Afisaje LCD robotica si automatizare"
+  },
+  {
+    "id": 1072,
+    "name": "Module si componente robotica"
+  },
+  {
+    "id": 1073,
+    "name": "Motoare electrice robotica"
+  },
+  {
+    "id": 1074,
+    "name": "Senzori robotica"
+  },
+  {
+    "id": 1075,
+    "name": "Parti mecanice si accesorii robotica"
+  },
+  {
+    "id": 1077,
+    "name": "Turism"
+  },
+  {
+    "id": 1078,
+    "name": "Surse alimentare robotica"
+  },
+  {
+    "id": 742,
+    "name": "Anvelope camioane"
+  },
+  {
+    "id": 743,
+    "name": "Anvelope moto"
+  },
+  {
+    "id": 1064,
+    "name": "Anvelope vehicule industriale"
+  },
+  {
+    "id": 1065,
+    "name": "Anvelope atv si kart-uri"
+  },
+  {
+    "id": 622,
+    "name": "Folii si pungi alimentare"
+  },
+  {
+    "id": 1040,
+    "name": "Pensete cosmetice"
+  },
+  {
+    "id": 1043,
+    "name": "Truse manichiura-pedichiura"
+  },
+  {
+    "id": 1042,
+    "name": "Foarfece manichiura-pedichiura"
+  },
+  {
+    "id": 1041,
+    "name": "Unghiere si clesti manichiura-pedichiura"
+  },
+  {
+    "id": 724,
+    "name": "Tirbusoane, aeratoare, dopuri"
+  },
+  {
+    "id": 1087,
+    "name": "Rasnite condimente"
+  },
+  {
+    "id": 1099,
+    "name": "Produse ingrijire incaltaminte si accesorii"
+  },
+  {
+    "id": 625,
+    "name": "Aparate anti-insecte, rezerve si insecticide"
+  },
+  {
+    "id": 1098,
+    "name": "Solutii curatare mobila, pardoseli, geamuri si detergenti universali"
+  },
+  {
+    "id": 620,
+    "name": "Hartie igienica"
+  },
+  {
+    "id": 1096,
+    "name": "Odorizant toaleta"
+  },
+  {
+    "id": 1093,
+    "name": "Dezinfectant si detartrant toaleta"
+  },
+  {
+    "id": 1094,
+    "name": "Solutii suprafete baie"
+  },
+  {
+    "id": 624,
+    "name": "Absorbant umiditate si rezerve"
+  },
+  {
+    "id": 1095,
+    "name": "Solutii desfundat tevi"
+  },
+  {
+    "id": 1091,
+    "name": "Detergent vase"
+  },
+  {
+    "id": 1092,
+    "name": "Solutii suprafete bucatarie"
+  },
+  {
+    "id": 623,
+    "name": "Manusi de unica folosinta, Medicale, Menaj"
+  },
+  {
+    "id": 1100,
+    "name": "Prosoape de hartie si servetele"
+  },
+  {
+    "id": 1088,
+    "name": "Inalbitor rufe si apret"
+  },
+  {
+    "id": 1089,
+    "name": "Solutii intretinere textile"
+  },
+  {
+    "id": 1090,
+    "name": "Solutii anticalcar"
+  },
+  {
+    "id": 1108,
+    "name": "Prese si storcatoare manuale"
+  },
+  {
+    "id": 1110,
+    "name": "Sucitoare aluat"
+  },
+  {
+    "id": 1109,
+    "name": "Desfacatoare conserve"
+  },
+  {
+    "id": 1112,
+    "name": "Shakere bar menaj"
+  },
+  {
+    "id": 1117,
+    "name": "Farfurii"
+  },
+  {
+    "id": 679,
+    "name": "Cosuri cadou"
+  },
+  {
+    "id": 1121,
+    "name": "Sine si galerii perdele"
+  },
+  {
+    "id": 1123,
+    "name": "Accesorii perdele, draperii, galerii, sine"
+  },
+  {
+    "id": 1124,
+    "name": "Accesorii rulouri si jaluzele"
+  },
+  {
+    "id": 1122,
+    "name": "Rulouri si jaluzele"
+  },
+  {
+    "id": 1125,
+    "name": "Scurgatoare vase si suporturi"
+  },
+  {
+    "id": 1126,
+    "name": "Suporturi tacamuri"
+  },
+  {
+    "id": 1127,
+    "name": "Suporturi servetele si prosoape bucatarie"
+  },
+  {
+    "id": 749,
+    "name": "Suporturi monitoare"
+  },
+  {
+    "id": 729,
+    "name": "Corpuri de iluminat comercial profesional"
+  },
+  {
+    "id": 812,
+    "name": "Aparate intretinere si ingrijire corporala"
+  },
+  {
+    "id": 917,
+    "name": "Botosei copii"
+  },
+  {
+    "id": 918,
+    "name": "Pantofi, tenisi, ghete, cizme copii"
+  },
+  {
+    "id": 919,
+    "name": "Sandale copii"
+  },
+  {
+    "id": 920,
+    "name": "Slapi si papuci copii"
+  },
+  {
+    "id": 921,
+    "name": "Ochelari de soare"
+  },
+  {
+    "id": 922,
+    "name": "Fulare si esarfe copii"
+  },
+  {
+    "id": 923,
+    "name": "Manusi copii"
+  },
+  {
+    "id": 926,
+    "name": "Sosete si dresuri copii"
+  },
+  {
+    "id": 927,
+    "name": "Bijuterii copii"
+  },
+  {
+    "id": 928,
+    "name": "Accesorii imbracaminte copii"
+  },
+  {
+    "id": 1152,
+    "name": "Incubatoare oua"
+  },
+  {
+    "id": 129,
+    "name": "Suporturi si standuri TV"
+  },
+  {
+    "id": 827,
+    "name": "Huse protectie si prelate articole sportive"
+  },
+  {
+    "id": 460,
+    "name": "Umbrele"
+  },
+  {
+    "id": 851,
+    "name": "Cutii frigorifice si pastile racire"
+  },
+  {
+    "id": 1155,
+    "name": "Produse ingrijire aparate si proteze dentare"
+  },
+  {
+    "id": 1156,
+    "name": "Saci de dormit bebe"
+  },
+  {
+    "id": 1157,
+    "name": "Cosuri, rucsacuri si genti picnic"
+  },
+  {
+    "id": 1158,
+    "name": "Invertoare auto"
+  },
+  {
+    "id": 1161,
+    "name": "Faruri, lampi si proiectoare auto"
+  },
+  {
+    "id": 726,
+    "name": "Statii incarcare si accesorii masini electrice"
+  },
+  {
+    "id": 916,
+    "name": "Pijamale copii"
+  },
+  {
+    "id": 1163,
+    "name": "Parasolare auto"
+  },
+  {
+    "id": 1063,
+    "name": "Aparatori noroi auto"
+  },
+  {
+    "id": 1069,
+    "name": "Lanturi, coliere, gheare si huse antiderapante auto"
+  },
+  {
+    "id": 1164,
+    "name": "Oglinzi auto"
+  },
+  {
+    "id": 1166,
+    "name": "Esapamente auto si moto"
+  },
+  {
+    "id": 1171,
+    "name": "Odorizant auto"
+  },
+  {
+    "id": 1172,
+    "name": "Filtre auto (aer, habitaclu, ulei, combustibil)"
+  },
+  {
+    "id": 1178,
+    "name": "Antigel"
+  },
+  {
+    "id": 1180,
+    "name": "Canistre si palnii carburant"
+  },
+  {
+    "id": 1181,
+    "name": "Scule si chei auto"
+  },
+  {
+    "id": 1182,
+    "name": "Organizatoare si suporturi auto"
+  },
+  {
+    "id": 1183,
+    "name": "Cricuri si elevatoare auto-moto"
+  },
+  {
+    "id": 1184,
+    "name": "Vopsea auto"
+  },
+  {
+    "id": 1185,
+    "name": "Scut motor"
+  },
+  {
+    "id": 1186,
+    "name": "Ulei hidraulic"
+  },
+  {
+    "id": 1187,
+    "name": "Testere diagnoza auto"
+  },
+  {
+    "id": 1189,
+    "name": "Solutii intretinere interior auto"
+  },
+  {
+    "id": 1192,
+    "name": "Dulapuri si corpuri bucatarie"
+  },
+  {
+    "id": 1193,
+    "name": "Seturi masa si scaune bucatarie, living"
+  },
+  {
+    "id": 1196,
+    "name": "Bancute hol si depozitare"
+  },
+  {
+    "id": 186,
+    "name": "Telescoape"
+  },
+  {
+    "id": 185,
+    "name": "Binocluri si lunete"
+  },
+  {
+    "id": 689,
+    "name": "Microscoape"
+  },
+  {
+    "id": 690,
+    "name": "Accesorii optica si astronomie"
+  },
+  {
+    "id": 1198,
+    "name": "Echipamente protectie motorsport"
+  },
+  {
+    "id": 1131,
+    "name": "Lampi UV medicale"
+  },
+  {
+    "id": 1199,
+    "name": "Accesorii gratar"
+  },
+  {
+    "id": 1200,
+    "name": "Accesorii autoaparare"
+  },
+  {
+    "id": 884,
+    "name": "Mobilier camping"
+  },
+  {
+    "id": 910,
+    "name": "Treninguri lifestyle"
+  },
+  {
+    "id": 911,
+    "name": "Bluze copii"
+  },
+  {
+    "id": 912,
+    "name": "Camasi copii"
+  },
+  {
+    "id": 913,
+    "name": "Hanorace copii"
+  },
+  {
+    "id": 914,
+    "name": "Pulovere si cardigane copii"
+  },
+  {
+    "id": 915,
+    "name": "Lenjerie intima copii"
+  },
+  {
+    "id": 1203,
+    "name": "Hainute botez"
+  },
+  {
+    "id": 1202,
+    "name": "Trusouri si accesorii botez"
+  },
+  {
+    "id": 1204,
+    "name": "Botosei si pantofi botez"
+  },
+  {
+    "id": 155,
+    "name": "Home Cinema si Soundbar"
+  },
+  {
+    "id": 1076,
+    "name": "Vase termorezistente"
+  },
+  {
+    "id": 170,
+    "name": "Placi retea"
+  },
+  {
+    "id": 1151,
+    "name": "Dispozitive monitorizare medicala"
+  },
+  {
+    "id": 181,
+    "name": "Medii de stocare: CD/DVD/BD"
+  },
+  {
+    "id": 375,
+    "name": "TermometreCopii - NU SE MAI FOLOSESTE!"
+  },
+  {
+    "id": 109,
+    "name": "Prajitoare de paine"
+  },
+  {
+    "id": 44,
+    "name": "Cantare de persoane"
+  },
+  {
+    "id": 112,
+    "name": "Access Point - Range Extender"
+  },
+  {
+    "id": 45,
+    "name": "Carduri de memorie"
+  },
+  {
+    "id": 931,
+    "name": "Trofee, cupe si medalii"
+  },
+  {
+    "id": 529,
+    "name": "Numaratori si alfabetare"
+  },
+  {
+    "id": 288,
+    "name": "Bratari fitness"
+  },
+  {
+    "id": 242,
+    "name": "Smartwatch"
+  },
+  {
+    "id": 91,
+    "name": "Masini de spalat rufe"
+  },
+  {
+    "id": 30,
+    "name": "Bluray si DVD Player"
+  },
+  {
+    "id": 579,
+    "name": "Licente electronice gaming"
+  },
+  {
+    "id": 136,
+    "name": "Televizoare"
+  },
+  {
+    "id": 123,
+    "name": "Scannere PC"
+  },
+  {
+    "id": 209,
+    "name": "Controllere si volane gaming"
+  },
+  {
+    "id": 984,
+    "name": "Produse curatare si intretinere articole sportive"
+  },
+  {
+    "id": 658,
+    "name": "Multicooker"
+  },
+  {
+    "id": 628,
+    "name": "Cani filtrante si accesorii"
+  },
+  {
+    "id": 717,
+    "name": "Generatoare ozon"
+  },
+  {
+    "id": 539,
+    "name": "Dosare"
+  },
+  {
+    "id": 528,
+    "name": "Plastilina"
+  },
+  {
+    "id": 632,
+    "name": "Produse ergonomice"
+  },
+  {
+    "id": 707,
+    "name": "Accesorii casti"
+  },
+  {
+    "id": 306,
+    "name": "Powerbank (Baterii externe)"
+  },
+  {
+    "id": 505,
+    "name": "Produse cosmetice si suplimente gravide"
+  },
+  {
+    "id": 530,
+    "name": "Instrumente geometrie: Rigla, Compas, Echer, Sablon"
+  },
+  {
+    "id": 93,
+    "name": "Mediaplayere"
+  },
+  {
+    "id": 223,
+    "name": "Laminatoare"
+  },
+  {
+    "id": 79,
+    "name": "Imprimante"
+  },
+  {
+    "id": 1139,
+    "name": "Dispozitive ajutatoare locomotie"
+  },
+  {
+    "id": 157,
+    "name": "Cabluri IT"
+  },
+  {
+    "id": 130,
+    "name": "Switch"
+  },
+  {
+    "id": 345,
+    "name": "Lubrifianti"
+  },
+  {
+    "id": 1001,
+    "name": "Manusi protectia muncii"
+  },
+  {
+    "id": 224,
+    "name": "Accesorii birotica"
+  },
+  {
+    "id": 193,
+    "name": "AlbumeFoto"
+  },
+  {
+    "id": 1137,
+    "name": "Seringi, ace, branule"
+  },
+  {
+    "id": 97,
+    "name": "Sisteme, minisisteme si microsisteme audio"
+  },
+  {
+    "id": 147,
+    "name": "Webcam"
+  },
+  {
+    "id": 598,
+    "name": "Foarfece, Cuttere si rezerve"
+  },
+  {
+    "id": 666,
+    "name": "Aparate medicale profesionale"
+  },
+  {
+    "id": 119,
+    "name": "Rasnite de cafea"
+  },
+  {
+    "id": 588,
+    "name": "Capsatoare si decapsatoare"
+  },
+  {
+    "id": 67,
+    "name": "Fiare si statii de calcat"
+  },
+  {
+    "id": 593,
+    "name": "Folii protectie documente"
+  },
+  {
+    "id": 1142,
+    "name": "Ochelari de vedere si protectie calculator"
+  },
+  {
+    "id": 54,
+    "name": "Consumabile si accesorii imprimante"
+  },
+  {
+    "id": 173,
+    "name": "Huse tablete"
+  },
+  {
+    "id": 636,
+    "name": "Accesorii camere foto si video sport"
+  },
+  {
+    "id": 92,
+    "name": "Masini de spalat vase"
+  },
+  {
+    "id": 1132,
+    "name": "Teste rapide: Covid, sarcina, ovulatie, infectii, alergii"
+  },
+  {
+    "id": 1146,
+    "name": "Uniforme medicale de unica folosinta"
+  },
+  {
+    "id": 154,
+    "name": "Muzica"
+  },
+  {
+    "id": 527,
+    "name": "Acuarele, tempera si pensule"
+  },
+  {
+    "id": 1141,
+    "name": "Accesorii ingrijire si recuperare la domiciliu"
+  },
+  {
+    "id": 19,
+    "name": "Aparate de ras electrice"
+  },
+  {
+    "id": 143,
+    "name": "Uscatoare de rufe automate"
+  },
+  {
+    "id": 65,
+    "name": "Fax"
+  },
+  {
+    "id": 22,
+    "name": "Aparate de tuns - Trimmere - Par, Barba, Corp"
+  },
+  {
+    "id": 1143,
+    "name": "Lentile de contact"
+  },
+  {
+    "id": 41,
+    "name": "Aparate foto compacte"
+  },
+  {
+    "id": 252,
+    "name": "Table de conferinta"
+  },
+  {
+    "id": 28,
+    "name": "Bigudiuri electrice"
+  },
+  {
+    "id": 4,
+    "name": "Default"
+  },
+  {
+    "id": 90,
+    "name": "Masini de cusut"
+  },
+  {
+    "id": 1038,
+    "name": "Perii de par clasice si piepteni"
+  },
+  {
+    "id": 56,
+    "name": "Cuptoare cu microunde standard"
+  },
+  {
+    "id": 639,
+    "name": "Tensiometre"
+  },
+  {
+    "id": 1140,
+    "name": "Scaune cu rotile"
+  },
+  {
+    "id": 245,
+    "name": "Produse intretinere auto - NU SE MAI FOLOSESTE !!!"
+  },
+  {
+    "id": 347,
+    "name": "Prezervative si jucarii sexuale"
+  },
+  {
+    "id": 535,
+    "name": "Markere"
+  },
+  {
+    "id": 1149,
+    "name": "Tincturi"
+  },
+  {
+    "id": 14,
+    "name": "Adaptoare Wireless Usb si Bluetooth"
+  },
+  {
+    "id": 139,
+    "name": "Trepiede"
+  },
+  {
+    "id": 744,
+    "name": "Manere usi"
+  },
+  {
+    "id": 176,
+    "name": "ServiciiInstalare"
+  },
+  {
+    "id": 128,
+    "name": "Storcatoare de fructe si legume"
+  },
+  {
+    "id": 158,
+    "name": "ServiciiDeInstalareAerConditionat - NU SE MAI FOLOSESTE!!!"
+  },
+  {
+    "id": 589,
+    "name": "Agrafe - Ace - Clipsuri - Pioneze - Umezitoare"
+  },
+  {
+    "id": 1135,
+    "name": "Pansament, fase, comprese, leucoplast"
+  },
+  {
+    "id": 583,
+    "name": "Accesorii biciclete - NU SE MAI FOLOSESTE"
+  },
+  {
+    "id": 290,
+    "name": "PacheteBass"
+  },
+  {
+    "id": 587,
+    "name": "Tavite si suporturi documente"
+  },
+  {
+    "id": 852,
+    "name": "Genti termoizolante"
+  },
+  {
+    "id": 595,
+    "name": "Tus, tusiere si stampile"
+  },
+  {
+    "id": 255,
+    "name": "Autovehicule"
+  },
+  {
+    "id": 98,
+    "name": "Mixere"
+  },
+  {
+    "id": 221,
+    "name": "Servere"
+  },
+  {
+    "id": 362,
+    "name": "Epilatoare"
+  },
+  {
+    "id": 169,
+    "name": "Surse PC"
+  },
+  {
+    "id": 140,
+    "name": "Unitati UPS"
+  },
+  {
+    "id": 504,
+    "name": "Pixuri"
+  },
+  {
+    "id": 277,
+    "name": "AccesoriiVideoproiectoare"
+  },
+  {
+    "id": 526,
+    "name": "Harti, sabloane si globuri pamantesti"
+  },
+  {
+    "id": 120,
+    "name": "Reportofoane"
+  },
+  {
+    "id": 171,
+    "name": "PlaciSunet"
+  },
+  {
+    "id": 364,
+    "name": "Pompe de san"
+  },
+  {
+    "id": 822,
+    "name": "Aparate foto instant"
+  },
+  {
+    "id": 134,
+    "name": "TelefoaneFixe"
+  },
+  {
+    "id": 654,
+    "name": "Aparate de vidat"
+  },
+  {
+    "id": 9,
+    "name": "Services"
+  },
+  {
+    "id": 102,
+    "name": "Mouse pad"
+  },
+  {
+    "id": 491,
+    "name": "Plicuri"
+  },
+  {
+    "id": 106,
+    "name": "Ondulatoare"
+  },
+  {
+    "id": 235,
+    "name": "Aparate de indosariat si spiralat"
+  },
+  {
+    "id": 111,
+    "name": "Produse intretinere IT si TV"
+  },
+  {
+    "id": 489,
+    "name": "Caiete"
+  },
+  {
+    "id": 533,
+    "name": "Coperti caiete si carti"
+  },
+  {
+    "id": 1167,
+    "name": "Creme si unguente produse naturiste"
+  },
+  {
+    "id": 538,
+    "name": "Bibliorafturi"
+  },
+  {
+    "id": 122,
+    "name": "Routere si Sisteme Mesh"
+  },
+  {
+    "id": 594,
+    "name": "Caiete mecanice"
+  },
+  {
+    "id": 879,
+    "name": "Siliconi, spume, adezivi si solutii tehnice"
+  },
+  {
+    "id": 481,
+    "name": "Accesorii si consumabile fiare de calcat"
+  },
+  {
+    "id": 194,
+    "name": "Huse telefoane"
+  },
+  {
+    "id": 233,
+    "name": "Articole scolare - NU SE MAI FOLOSESTE !!!"
+  },
+  {
+    "id": 100,
+    "name": "Monitoare"
+  },
+  {
+    "id": 142,
+    "name": "Uscatoare de par"
+  },
+  {
+    "id": 20,
+    "name": "Aparate de gatit cu aburi"
+  },
+  {
+    "id": 597,
+    "name": "Etichete autoadezive"
+  },
+  {
+    "id": 243,
+    "name": "Ghilotine si trimmere"
+  },
+  {
+    "id": 582,
+    "name": "Imprimante termice"
+  },
+  {
+    "id": 1188,
+    "name": "Produse pentru albirea dintilor"
+  },
+  {
+    "id": 706,
+    "name": "Docking station laptop"
+  },
+  {
+    "id": 249,
+    "name": "Drone"
+  },
+  {
+    "id": 75,
+    "name": "HDD si SSD extern"
+  },
+  {
+    "id": 1150,
+    "name": "Pulberi"
+  },
+  {
+    "id": 167,
+    "name": "Procesoare"
+  },
+  {
+    "id": 534,
+    "name": "Mine, rezerve si cerneala"
+  },
+  {
+    "id": 29,
+    "name": "Blendere, mini tocatoare, razatoare"
+  },
+  {
+    "id": 175,
+    "name": "FoliiProtectieSmtTabSmw"
+  },
+  {
+    "id": 791,
+    "name": "Corzi de sarit"
+  },
+  {
+    "id": 197,
+    "name": "Cabluri date si Adaptoare telefon"
+  },
+  {
+    "id": 665,
+    "name": "Accesorii aparate medicale"
+  },
+  {
+    "id": 786,
+    "name": "Accesorii borduri darts"
+  },
+  {
+    "id": 627,
+    "name": "Aparate de preparat desert"
+  },
+  {
+    "id": 149,
+    "name": "Filme Blu-ray si DVD"
+  },
+  {
+    "id": 47,
+    "name": "Casti PC"
+  },
+  {
+    "id": 230,
+    "name": "Accesorii si consumabile Ingrijire personala - Cosmetice"
+  },
+  {
+    "id": 457,
+    "name": "Masini de numarat banii"
+  },
+  {
+    "id": 49,
+    "name": "Cititoare de card"
+  },
+  {
+    "id": 72,
+    "name": "Genti foto si video"
+  },
+  {
+    "id": 1148,
+    "name": "Siropuri medicinale"
+  },
+  {
+    "id": 930,
+    "name": "Tabele tactice"
+  },
+  {
+    "id": 78,
+    "name": "Hub port usb"
+  },
+  {
+    "id": 104,
+    "name": "Obiective"
+  },
+  {
+    "id": 458,
+    "name": "Foarfece"
+  },
+  {
+    "id": 1130,
+    "name": "Aparate auditive"
+  },
+  {
+    "id": 135,
+    "name": "Telefoane mobile"
+  },
+  {
+    "id": 251,
+    "name": "Adaptoare componente IT"
+  },
+  {
+    "id": 635,
+    "name": "AccesoriiMasiniDeCusut"
+  },
+  {
+    "id": 1002,
+    "name": "Pulsoximetre"
+  },
+  {
+    "id": 265,
+    "name": "Huse mese de calcat"
+  },
+  {
+    "id": 38,
+    "name": "Cafetiere"
+  },
+  {
+    "id": 198,
+    "name": "SpeakereCarKit"
+  },
+  {
+    "id": 164,
+    "name": "Placi de baza"
+  },
+  {
+    "id": 1201,
+    "name": "Dopuri de urechi"
+  },
+  {
+    "id": 107,
+    "name": "Placi de indreptat parul"
+  },
+  {
+    "id": 70,
+    "name": "Friteuze"
+  },
+  {
+    "id": 58,
+    "name": "Cuptoare Incorporabile"
+  },
+  {
+    "id": 163,
+    "name": "Memorii Ram PC"
+  },
+  {
+    "id": 63,
+    "name": "Espressoare"
+  },
+  {
+    "id": 1033,
+    "name": "Aparate foto cu film"
+  },
+  {
+    "id": 494,
+    "name": "Hartie"
+  },
+  {
+    "id": 686,
+    "name": "Aparate de ras clasice"
+  },
+  {
+    "id": 101,
+    "name": "Mouse"
+  },
+  {
+    "id": 640,
+    "name": "Glucometre"
+  },
+  {
+    "id": 596,
+    "name": "Corectoare, radiere, ascutitori"
+  },
+  {
+    "id": 634,
+    "name": "Ambalaje cadouri"
+  },
+  {
+    "id": 11,
+    "name": "Acumulatori foto-video"
+  },
+  {
+    "id": 23,
+    "name": "Aparate frigorifice"
+  },
+  {
+    "id": 121,
+    "name": "Roboti de bucatarie"
+  },
+  {
+    "id": 195,
+    "name": "Handsfree"
+  },
+  {
+    "id": 932,
+    "name": "Crose hochei"
+  },
+  {
+    "id": 484,
+    "name": "Ceasuri de mana si buzunar"
+  },
+  {
+    "id": 35,
+    "name": "Boxe PC"
+  },
+  {
+    "id": 592,
+    "name": "Flipchart si rezerve"
+  },
+  {
+    "id": 537,
+    "name": "Formulare tipizate nepersonalizate"
+  },
+  {
+    "id": 540,
+    "name": "Cutii si accesorii pentru arhivare"
+  },
+  {
+    "id": 629,
+    "name": "Genti cosmetice"
+  },
+  {
+    "id": 669,
+    "name": "Masti de protectie"
+  },
+  {
+    "id": 1153,
+    "name": "Cearceafuri-aleze incontinenta"
+  },
+  {
+    "id": 350,
+    "name": "Masini stationare si de atelier"
+  },
+  {
+    "id": 273,
+    "name": "Periferice diverse"
+  },
+  {
+    "id": 73,
+    "name": "Genti laptop"
+  },
+  {
+    "id": 599,
+    "name": "Sisteme de afisare-prezentare si indicatori informare"
+  },
+  {
+    "id": 189,
+    "name": "Nas"
+  },
+  {
+    "id": 141,
+    "name": "USB Flash"
+  },
+  {
+    "id": 168,
+    "name": "Unitati optice"
+  },
+  {
+    "id": 553,
+    "name": "Hrana animale de ferma"
+  },
+  {
+    "id": 657,
+    "name": "Sandwich maker si waffe"
+  },
+  {
+    "id": 132,
+    "name": "Tastatura"
+  },
+  {
+    "id": 76,
+    "name": "Hote"
+  },
+  {
+    "id": 196,
+    "name": "Calculatoare de birou"
+  },
+  {
+    "id": 94,
+    "name": "Mese de calcat"
+  },
+  {
+    "id": 531,
+    "name": "Seturi si alte accesorii scolare"
+  },
+  {
+    "id": 52,
+    "name": "Console jocuri"
+  },
+  {
+    "id": 43,
+    "name": "Cantare de bucatarie"
+  },
+  {
+    "id": 294,
+    "name": "Perii de par electrice"
+  },
+  {
+    "id": 68,
+    "name": "Fierbatoare de apa"
+  },
+  {
+    "id": 1154,
+    "name": "Absorbante urologice incontinenta"
+  },
+  {
+    "id": 207,
+    "name": "HuseGps"
+  },
+  {
+    "id": 184,
+    "name": "Adaptoare PowerLine"
+  },
+  {
+    "id": 226,
+    "name": "Produse de menaj - NU SE MAI FOLOSESTE !!!"
+  },
+  {
+    "id": 40,
+    "name": "Camere foto Dslr si Mirrorless"
+  },
+  {
+    "id": 145,
+    "name": "Videoproiectoare"
+  },
+  {
+    "id": 1136,
+    "name": "Dispozitive recoltare probe si ingrijire"
+  },
+  {
+    "id": 188,
+    "name": "FiltreFoto"
+  },
+  {
+    "id": 131,
+    "name": "Tablete"
+  },
+  {
+    "id": 1145,
+    "name": "Accesorii si consumabile optica medicala"
+  },
+  {
+    "id": 825,
+    "name": "Accesorii piese biciclete"
+  },
+  {
+    "id": 161,
+    "name": "Coolere PC"
+  },
+  {
+    "id": 1133,
+    "name": "Alcool sanitar si dezinfectanti locali"
+  },
+  {
+    "id": 16,
+    "name": "Aer conditionat"
+  },
+  {
+    "id": 218,
+    "name": "Imprimante 3D"
+  },
+  {
+    "id": 734,
+    "name": "Rack HDD"
+  },
+  {
+    "id": 82,
+    "name": "Periute de dinti electrice si irigatoare"
+  },
+  {
+    "id": 89,
+    "name": "Masini de copt paine"
+  },
+  {
+    "id": 219,
+    "name": "Consumabile imprimante 3D"
+  },
+  {
+    "id": 257,
+    "name": "Scaune gaming"
+  },
+  {
+    "id": 138,
+    "name": "Masini de tocat carne electrice"
+  },
+  {
+    "id": 126,
+    "name": "StatiiDeCalcat - NU SE MAI FOLOSESTE!!!"
+  },
+  {
+    "id": 573,
+    "name": "AccesoriiAcvariiSiTerarii"
+  },
+  {
+    "id": 1000,
+    "name": "Gel igienizant, dezifectant si antibacterian"
+  },
+  {
+    "id": 490,
+    "name": "Agende, blocnotes si calendare"
+  },
+  {
+    "id": 166,
+    "name": "Ssd intern"
+  },
+  {
+    "id": 262,
+    "name": "Westaco"
+  },
+  {
+    "id": 1105,
+    "name": "Termometre bucatarie"
+  },
+  {
+    "id": 637,
+    "name": "Stabilizatoare de imagine"
+  },
+  {
+    "id": 34,
+    "name": "Boxe portabile"
+  },
+  {
+    "id": 59,
+    "name": "Desktop si AIO"
+  },
+  {
+    "id": 71,
+    "name": "Gratare si plite electrice"
+  },
+  {
+    "id": 586,
+    "name": "Benzi etichete"
+  },
+  {
+    "id": 108,
+    "name": "Plite Incorporabile"
+  },
+  {
+    "id": 55,
+    "name": "Cooling Pad"
+  },
+  {
+    "id": 396,
+    "name": "IncaltaminteFotbal"
+  },
+  {
+    "id": 434,
+    "name": "SurfSiStandUpPaddle"
+  },
+  {
+    "id": 885,
+    "name": "Vesela si tacamuri camping"
+  },
+  {
+    "id": 980,
+    "name": "Lanturi bicicleta"
+  },
+  {
+    "id": 172,
+    "name": "Carcase PC"
+  },
+  {
+    "id": 600,
+    "name": "Organizatoare cabluri"
+  },
+  {
+    "id": 66,
+    "name": "Feliatoare"
+  },
+  {
+    "id": 1144,
+    "name": "Rame ochelari de vedere"
+  },
+  {
+    "id": 222,
+    "name": "Distrugatoare de documente"
+  },
+  {
+    "id": 42,
+    "name": "Camere video"
+  },
+  {
+    "id": 165,
+    "name": "Placi video"
+  },
+  {
+    "id": 452,
+    "name": "Tampoane si absorbante"
+  },
+  {
+    "id": 162,
+    "name": "Hard Disk-uri interne"
+  },
+  {
+    "id": 468,
+    "name": "Genti, ghiozdane, rucsacuri, copii"
+  },
+  {
+    "id": 24,
+    "name": "Aragazuri"
+  },
+  {
+    "id": 493,
+    "name": "Notite autoadezive si cuburi hartie"
+  },
+  {
+    "id": 1134,
+    "name": "Testere alcoolemie"
+  },
+  {
+    "id": 85,
+    "name": "Laptopuri"
+  },
+  {
+    "id": 1037,
+    "name": "Ata dentara"
+  },
+  {
+    "id": 125,
+    "name": "Software"
+  },
+  {
+    "id": 151,
+    "name": "Jocuri pentru console"
+  },
+  {
+    "id": 225,
+    "name": "Tablete grafice"
+  },
+  {
+    "id": 532,
+    "name": "Creioane colorate si carioci"
+  },
+  {
+    "id": 114,
+    "name": "RacitorVin - NU SE MAI FOLOSESTE!!!"
+  },
+  {
+    "id": 1129,
+    "name": "Accesorii par"
+  },
+  {
+    "id": 536,
+    "name": "SeturiPentruBirou"
+  },
+  {
+    "id": 590,
+    "name": "Adezivi si benzi adezive papetarie"
+  },
+  {
+    "id": 1068,
+    "name": "Capace roti auto"
+  },
+  {
+    "id": 702,
+    "name": "Accesorii antrenament sportiv"
+  },
+  {
+    "id": 37,
+    "name": "Cabluri, splittere si adaptoare video"
+  },
+  {
+    "id": 1147,
+    "name": "Uleiuri esentiale"
+  },
+  {
+    "id": 103,
+    "name": "Multifunctionale"
+  },
+  {
+    "id": 924,
+    "name": "Sosete adulti"
+  },
+  {
+    "id": 1205,
+    "name": "Vibratoare beton"
+  },
+  {
+    "id": 1206,
+    "name": "Display-uri si touchscreen telefoane"
+  },
+  {
+    "id": 1207,
+    "name": "Usi exterior intrare"
+  },
+  {
+    "id": 1208,
+    "name": "Aparate frigorifice medicale"
+  },
+  {
+    "id": 1209,
+    "name": "Bureti si perii de baie"
+  },
+  {
+    "id": 1210,
+    "name": "Lacate"
+  },
+  {
+    "id": 1211,
+    "name": "Accesorii piscina"
+  },
+  {
+    "id": 1212,
+    "name": "Solutii intretinere piscina"
+  },
+  {
+    "id": 1213,
+    "name": "Aeromodele de construit"
+  },
+  {
+    "id": 1214,
+    "name": "Automodele de construit"
+  },
+  {
+    "id": 1215,
+    "name": "Navomodele de construit"
+  },
+  {
+    "id": 1216,
+    "name": "Vehicule militare de construit"
+  },
+  {
+    "id": 1217,
+    "name": "Cladiri pentru diorame"
+  },
+  {
+    "id": 1219,
+    "name": "Vopsele si adezivi pentru modelism"
+  },
+  {
+    "id": 1220,
+    "name": "Unelte si accesorii modelism"
+  },
+  {
+    "id": 1221,
+    "name": "Automachete"
+  },
+  {
+    "id": 1222,
+    "name": "Aeromachete"
+  },
+  {
+    "id": 1223,
+    "name": "Navomachete"
+  },
+  {
+    "id": 1224,
+    "name": "Machete militare"
+  },
+  {
+    "id": 1218,
+    "name": "Figurine, pomi si tufisuri pentru diorame"
+  },
+  {
+    "id": 1225,
+    "name": "Masini si unelte de taiat gresia si faianta"
+  },
+  {
+    "id": 1226,
+    "name": "Birouri gaming"
+  },
+  {
+    "id": 1227,
+    "name": "Accesorii vibratoare beton"
+  },
+  {
+    "id": 1228,
+    "name": "Coase electrice si motocoase"
+  },
+  {
+    "id": 1229,
+    "name": "Foarfece si trimmere electrice"
+  },
+  {
+    "id": 1231,
+    "name": "Chitare acustice"
+  },
+  {
+    "id": 1232,
+    "name": "Chitare clasice"
+  },
+  {
+    "id": 1233,
+    "name": "Chitare electro-acustice"
+  },
+  {
+    "id": 1235,
+    "name": "Chitare electrice"
+  },
+  {
+    "id": 1234,
+    "name": "Chitare ukulele"
+  },
+  {
+    "id": 1236,
+    "name": "Accesorii ingrijire copii"
+  },
+  {
+    "id": 1237,
+    "name": "Ventilatoare PC"
+  },
+  {
+    "id": 1238,
+    "name": "Stilouri"
+  },
+  {
+    "id": 1240,
+    "name": "Creioane"
+  },
+  {
+    "id": 1241,
+    "name": "Rollere"
+  },
+  {
+    "id": 1242,
+    "name": "Linere"
+  },
+  {
+    "id": 1243,
+    "name": "Cuptoare cu microunde incorporabile"
+  },
+  {
+    "id": 1244,
+    "name": "Penare copii"
+  },
+  {
+    "id": 1245,
+    "name": "Blocuri de desen"
+  },
+  {
+    "id": 1246,
+    "name": "Panze pictura"
+  },
+  {
+    "id": 1247,
+    "name": "Sevalete"
+  },
+  {
+    "id": 1248,
+    "name": "Creta si table scolare"
+  },
+  {
+    "id": 1249,
+    "name": "Cutii postale"
+  },
+  {
+    "id": 1250,
+    "name": "Flori si plante artificiale"
+  },
+  {
+    "id": 1251,
+    "name": "Tapet si fototapet"
+  },
+  {
+    "id": 1252,
+    "name": "Stickere si autocolante decorative"
+  },
+  {
+    "id": 1253,
+    "name": "Viori"
+  },
+  {
+    "id": 1254,
+    "name": "Panouri si decoratiuni perete"
+  },
+  {
+    "id": 1255,
+    "name": "Parfumuri si deodorante animale de companie"
+  },
+  {
+    "id": 1256,
+    "name": "Pereti despartitori si paravane camera"
+  },
+  {
+    "id": 1257,
+    "name": "Plinte, izolatii si accesorii parchet"
+  },
+  {
+    "id": 1258,
+    "name": "Vopsele si pigmenti amenajari"
+  },
+  {
+    "id": 1259,
+    "name": "Console mobilier"
+  },
+  {
+    "id": 1260,
+    "name": "Arme sporturi de precizie"
+  },
+  {
+    "id": 1261,
+    "name": "Munitie sporturi de precizie"
+  },
+  {
+    "id": 1262,
+    "name": "Accesorii audio hi-fi"
+  },
+  {
+    "id": 1263,
+    "name": "Masini curatat pardoseli"
+  },
+  {
+    "id": 1264,
+    "name": "Smart Ring"
+  },
+  {
+    "id": 1265,
+    "name": "Tavi gastronorm"
+  },
+  {
+    "id": 1266,
+    "name": "Imobiliare"
+  },
+  {
+    "id": 1267,
+    "name": "Display laptop"
+  },
+  {
+    "id": 1268,
+    "name": "Articole deszapezire, lopeti, materiale antiderapante"
+  },
+  {
+    "id": 1269,
+    "name": "GPS Tracker"
+  },
+  {
+    "id": 1270,
+    "name": "Accesorii ferestre"
+  },
+  {
+    "id": 1271,
+    "name": "Accesorii usi"
+  },
+  {
+    "id": 1272,
+    "name": "Umerase haine si suporturi"
+  },
+  {
+    "id": 1273,
+    "name": "Curele"
+  },
+  {
+    "id": 1274,
+    "name": "Brelocuri"
+  },
+  {
+    "id": 1275,
+    "name": "Martisoare"
+  },
+  {
+    "id": 1276,
+    "name": "Mape si clipboarduri"
+  },
+  {
+    "id": 1277,
+    "name": "Perforatoare"
+  },
+  {
+    "id": 1278,
+    "name": "Capse pentru capsator"
+  },
+  {
+    "id": 1279,
+    "name": "Folii laminare"
+  },
+  {
+    "id": 1280,
+    "name": "Ferestre si luminatoare"
+  },
+  {
+    "id": 1281,
+    "name": "Accesorii unghii - nail art"
+  },
+  {
+    "id": 1282,
+    "name": "Articole ambalare"
+  },
+  {
+    "id": 1283,
+    "name": "Cutii chei"
+  },
+  {
+    "id": 1284,
+    "name": "Cititoare de coduri de bare"
+  },
+  {
+    "id": 1285,
+    "name": "Case de marcat"
+  },
+  {
+    "id": 1286,
+    "name": "Sertare si casete bani"
+  },
+  {
+    "id": 1287,
+    "name": "Cantare comerciale"
+  },
+  {
+    "id": 1288,
+    "name": "Aparate POS"
+  },
+  {
+    "id": 1289,
+    "name": "Marcatoare, pistoale si accesorii etichetat"
+  },
+  {
+    "id": 1290,
+    "name": "Seminte, bulbi si rasaduri"
+  },
+  {
+    "id": 1291,
+    "name": "Accesorii fose septice"
+  },
+  {
+    "id": 1292,
+    "name": "Subwoofere audio"
+  },
+  {
+    "id": 1293,
+    "name": "Remorci"
+  },
+  {
+    "id": 1294,
+    "name": "Robineti apa si gaz"
+  },
+  {
+    "id": 1295,
+    "name": "Fitinguri si accesorii apa si gaz"
+  },
+  {
+    "id": 1296,
+    "name": "Contoare apa, apometre"
+  },
+  {
+    "id": 1297,
+    "name": "Regulatoare gaz"
+  },
+  {
+    "id": 1298,
+    "name": "Tevi apa si gaz"
+  },
+  {
+    "id": 1299,
+    "name": "Cuie"
+  },
+  {
+    "id": 1300,
+    "name": "Suruburi, dibluri si accesorii"
+  },
+  {
+    "id": 1301,
+    "name": "Sarma, lant, sfoara"
+  },
+  {
+    "id": 1302,
+    "name": "Profile, bare, foi metalice"
+  },
+  {
+    "id": 1303,
+    "name": "Elemente imbinare si fixare"
+  },
+  {
+    "id": 1304,
+    "name": "Zavoare"
+  },
+  {
+    "id": 1305,
+    "name": "Balamale"
+  },
+  {
+    "id": 1306,
+    "name": "Baterii panouri solare"
+  },
+  {
+    "id": 1307,
+    "name": "Accesorii moto"
+  },
+  {
+    "id": 1308,
+    "name": "Materiale textile"
+  },
+  {
+    "id": 1309,
+    "name": "Suporturi articole birou"
+  },
+  {
+    "id": 1310,
+    "name": "Piscine"
+  },
+  {
+    "id": 1311,
+    "name": "Nisip modelabil, pasta si lut"
+  },
+  {
+    "id": 1312,
+    "name": "Kit-uri automatizari porti si usi garaj"
+  },
+  {
+    "id": 1313,
+    "name": "Rafturi, dulapuri si bancuri de lucru atelier"
+  },
+  {
+    "id": 1314,
+    "name": "Accesorii ghivece si jardiniere"
+  },
+  {
+    "id": 1315,
+    "name": "Accesorii intretinere plante"
+  },
+  {
+    "id": 1316,
+    "name": "Cadouri personalizate"
+  },
+  {
+    "id": 1317,
+    "name": "Recuperatoare caldura"
+  },
+  {
+    "id": 1318,
+    "name": "Unelte de vopsit, tencuit, zugravit"
+  },
+  {
+    "id": 1319,
+    "name": "Accesorii gresie si faianta"
+  },
+  {
+    "id": 1320,
+    "name": "Ventilatoare industriale"
+  },
+  {
+    "id": 1321,
+    "name": "Accesorii scari interioare"
+  },
+  {
+    "id": 1322,
+    "name": "Accesorii corpuri iluminat"
+  },
+  {
+    "id": 1325,
+    "name": "Lambriuri si accesorii"
+  },
+  {
+    "id": 1324,
+    "name": "Placi lemn, OSB si cherestea"
+  },
+  {
+    "id": 1323,
+    "name": "Pardoseli exterioare, pavaje, dale si borduri"
+  },
+  {
+    "id": 1327,
+    "name": "Accesorii gips carton"
+  },
+  {
+    "id": 1326,
+    "name": "Placi gips carton"
+  },
+  {
+    "id": 1328,
+    "name": "Accesorii vopsire, tencuire, zugravit"
+  },
+  {
+    "id": 1329,
+    "name": "Accesorii sauna"
+  },
+  {
+    "id": 1330,
+    "name": "Scrumiere"
+  },
+  {
+    "id": 1331,
+    "name": "Grunduri, amorse si diluanti"
+  },
+  {
+    "id": 1332,
+    "name": "Saune"
+  },
+  {
+    "id": 15305,
+    "name": "Benzi tehnice si adezive bricolaj"
+  },
+  {
+    "id": 15306,
+    "name": "Garduri electrice animale si accesorii"
+  },
+  {
+    "id": 15307,
+    "name": "Orgi electronice"
+  },
+  {
+    "id": 15308,
+    "name": "Corzi instrumente muzicale"
+  },
+  {
+    "id": 15309,
+    "name": "Fluiere traditionale"
+  },
+  {
+    "id": 15310,
+    "name": "Produse ingrijire barba si mustata"
+  },
+  {
+    "id": 15311,
+    "name": "Polistiren, vata minerala termoizolatii, izolatii tevi"
+  },
+  {
+    "id": 15312,
+    "name": "Accesorii termoizolatii"
+  },
+  {
+    "id": 15313,
+    "name": "Hidroizolatii si accesorii"
+  },
+  {
+    "id": 15314,
+    "name": "Tencuieli si gleturi"
+  },
+  {
+    "id": 15315,
+    "name": "Paratrasnete si accesorii"
+  },
+  {
+    "id": 15316,
+    "name": "Accesorii pompe de apa si hidrofoare"
+  },
+  {
+    "id": 15317,
+    "name": "Faianta, gresie si mozaic"
+  },
+  {
+    "id": 15318,
+    "name": "Stingatoare/extinctoare incendii"
+  },
+  {
+    "id": 15319,
+    "name": "Piatra decorativa"
+  },
+  {
+    "id": 15320,
+    "name": "Compostoare gradina"
+  },
+  {
+    "id": 15321,
+    "name": "Chit rosturi faianta si gresie"
+  },
+  {
+    "id": 15322,
+    "name": "Adeziv gresie si faianta"
+  }
+]
