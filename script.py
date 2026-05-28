@@ -612,9 +612,11 @@ def main():
         if ok:
             ok_count += 1
             try:
-                odoo_call("x_auto_posting", "write",
-                          [[t["id"]], {"x_studio_stage_id": STAGE_PENDING}])
-                print(f"  Odoo task {t['id']} -> stage {STAGE_PENDING}", flush=True)
+                vals = {"x_studio_stage_id": STAGE_PENDING}
+                if info and isinstance(info, str) and not info.startswith("exc:"):
+                    vals["x_studio_listing_id"] = info
+                odoo_call("x_auto_posting", "write", [[t["id"]], vals])
+                print(f"  Odoo task {t['id']} -> stage {STAGE_PENDING} listing_id={info}", flush=True)
             except Exception as e:
                 print(f"  Odoo update failed: {e}", flush=True)
         else:
