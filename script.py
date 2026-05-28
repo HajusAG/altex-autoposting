@@ -358,12 +358,16 @@ Attribute sets (id, name):
     if not set_id or set_id not in allowed_set_ids:
         set_id = narrowed[0]["id"]
 
-    candidate_paths = allowed_map.get(str(set_id)) or []
-    if not candidate_paths:
-        return False, f"no_paths_for_set_{set_id}"
-    if len(candidate_paths) == 1:
-        chosen_cat = candidate_paths[0]
-    else:
+    # Build ordered list of (set_id, path) candidates for retry on 403
+    set_order = [set_id] + [s["id"] for s in narrowed if s["id"] != set_id]
+    set_path_queue = []
+    for sid in set_order:
+        paths = allowed_map.get(str(sid)) or []
+        if not paths:
+            continue
+        if len(paths) == 1:
+            set_path_queue.append((sid, paths[0]))
+            continue
         cat_prompt = f"""You are classifying products into Altex.ro marketplace categories.
 
 Product:
@@ -377,60 +381,79 @@ Strict JSON:
 {{"codes": [<int>,...], "path": "<path>"}}
 
 Categories:
-{json.dumps(candidate_paths, ensure_ascii=False)}
+{json.dumps(paths, ensure_ascii=False)}
 """
-        raw = llm([{"role": "user", "content": cat_prompt}], max_tokens=300,
-                  response_format={"type": "json_object"})
-        chosen_cat = json.loads(raw)
-        valid = next((p for p in candidate_paths if p["codes"] == chosen_cat.get("codes")), None)
-        if not valid:
-            chosen_cat = candidate_paths[0]
-
-    # Attributes for set
-    all_attrs = []
-    page = 1
-    while True:
-        params = [("items_per_page", 100), ("page_nr", page)]
-        s, r = altex_req("GET", f"/v2.0/catalog/sets/{set_id}/attributes", params=params)
-        if s != 200:
+        try:
+            raw = llm([{"role": "user", "content": cat_prompt}], max_tokens=300,
+                      response_format={"type": "json_object"})
+            picked = json.loads(raw)
+            valid = next((p for p in paths if p["codes"] == picked.get("codes")), None)
+            ordered = ([valid] if valid else []) + [p for p in paths if not valid or p["codes"] != valid["codes"]]
+        except Exception:
+            ordered = list(paths)
+        for p in ordered:
+            set_path_queue.append((sid, p))
+        if len(set_path_queue) >= 8:
             break
-        items_a = (r.get("data") or {}).get("items") or []
-        all_attrs.extend(items_a)
-        meta = (r.get("data") or {}).get("meta") or {}
-        total = meta.get("total") or len(items_a)
-        if len(items_a) < 100 or len(all_attrs) >= total:
-            break
-        page += 1
 
-    required = []
-    brand_attr = None
-    for a in all_attrs:
-        req_sets = a.get("required_attribute_sets") or []
-        if isinstance(req_sets, dict):
-            req_sets = list(req_sets.values())
-        is_req = set_id in [int(x) for x in req_sets]
-        if a.get("code") == "brand":
+    if not set_path_queue:
+        return False, f"no_paths_for_set_{set_id}"
+
+    attrs_cache = {}
+    last_status = None
+    last_resp = None
+    for attempt_idx, (set_id, chosen_cat) in enumerate(set_path_queue, 1):
+        print(f"  attempt {attempt_idx}/{len(set_path_queue)} set={set_id} cat={chosen_cat.get('path')}", flush=True)
+
+        # Attributes for set (cached)
+        if set_id in attrs_cache:
+            all_attrs = attrs_cache[set_id]
+        else:
+            all_attrs = []
+            page = 1
+            while True:
+                params = [("items_per_page", 100), ("page_nr", page)]
+                s, r = altex_req("GET", f"/v2.0/catalog/sets/{set_id}/attributes", params=params)
+                if s != 200:
+                    break
+                items_a = (r.get("data") or {}).get("items") or []
+                all_attrs.extend(items_a)
+                meta = (r.get("data") or {}).get("meta") or {}
+                total = meta.get("total") or len(items_a)
+                if len(items_a) < 100 or len(all_attrs) >= total:
+                    break
+                page += 1
+            attrs_cache[set_id] = all_attrs
+
+        required = []
+        brand_attr = None
+        for a in all_attrs:
+            req_sets = a.get("required_attribute_sets") or []
+            if isinstance(req_sets, dict):
+                req_sets = list(req_sets.values())
+            is_req = set_id in [int(x) for x in req_sets]
+            if a.get("code") == "brand":
+                if is_req:
+                    brand_attr = a
+                continue
             if is_req:
-                brand_attr = a
-            continue
-        if is_req:
-            required.append({
-                "code": a["code"], "name": a.get("name"),
-                "value_type": a.get("value_type"),
-                "attribute_values": a.get("attribute_values"),
-            })
+                required.append({
+                    "code": a["code"], "name": a.get("name"),
+                    "value_type": a.get("value_type"),
+                    "attribute_values": a.get("attribute_values"),
+                })
 
-    found_brand_id = None
-    if brand_attr and brand:
-        bl = brand.replace("®", "").lower().strip()
-        for v in brand_attr.get("attribute_values") or []:
-            if v.get("name", "").replace("®", "").lower().strip() == bl:
-                found_brand_id = v["id"]
-                break
+        found_brand_id = None
+        if brand_attr and brand:
+            bl = brand.replace("®", "").lower().strip()
+            for v in brand_attr.get("attribute_values") or []:
+                if v.get("name", "").replace("®", "").lower().strip() == bl:
+                    found_brand_id = v["id"]
+                    break
 
-    attributes_obj = {}
-    if required:
-        attr_prompt = f"""Map product info to required Altex marketplace attributes.
+        attributes_obj = {}
+        if required:
+            attr_prompt = f"""Map product info to required Altex marketplace attributes.
 
 Return STRICT JSON: an array of objects:
 [{{"code":"...","values":["..."]}}]
@@ -451,97 +474,102 @@ PRODUCT:
 ATTRIBUTES:
 {json.dumps(required, ensure_ascii=False)[:30000]}
 """
-        raw = llm([{"role": "user", "content": attr_prompt}], max_tokens=3000,
-                  response_format={"type": "json_object"})
-        try:
-            parsed = json.loads(raw)
-            if isinstance(parsed, dict) and "output" in parsed:
-                parsed = parsed["output"]
-            if isinstance(parsed, dict) and "attributes" in parsed:
-                parsed = parsed["attributes"]
-            if not isinstance(parsed, list):
-                for v in (parsed.values() if isinstance(parsed, dict) else []):
-                    if isinstance(v, list):
-                        parsed = v
-                        break
-        except Exception:
-            parsed = []
+            raw = llm([{"role": "user", "content": attr_prompt}], max_tokens=3000,
+                      response_format={"type": "json_object"})
+            try:
+                parsed = json.loads(raw)
+                if isinstance(parsed, dict) and "output" in parsed:
+                    parsed = parsed["output"]
+                if isinstance(parsed, dict) and "attributes" in parsed:
+                    parsed = parsed["attributes"]
+                if not isinstance(parsed, list):
+                    for v in (parsed.values() if isinstance(parsed, dict) else []):
+                        if isinstance(v, list):
+                            parsed = v
+                            break
+            except Exception:
+                parsed = []
 
-        type_map = {a["code"]: a.get("value_type") for a in required}
-        for it in parsed:
-            code = it.get("code")
-            vals = it.get("values") or []
-            if not code or not vals:
-                continue
-            vt = type_map.get(code)
-            if vt == "multiselect":
-                try:
-                    attributes_obj[code] = [int(x) for x in vals]
-                except Exception:
-                    attributes_obj[code] = [str(x) for x in vals]
-            else:
-                v0 = vals[0]
-                try:
-                    attributes_obj[code] = int(v0)
-                except Exception:
+            type_map = {a["code"]: a.get("value_type") for a in required}
+            for it in parsed:
+                code = it.get("code")
+                vals = it.get("values") or []
+                if not code or not vals:
+                    continue
+                vt = type_map.get(code)
+                if vt == "multiselect":
                     try:
-                        attributes_obj[code] = float(v0)
+                        attributes_obj[code] = [int(x) for x in vals]
                     except Exception:
-                        attributes_obj[code] = str(v0)
+                        attributes_obj[code] = [str(x) for x in vals]
+                else:
+                    v0 = vals[0]
+                    try:
+                        attributes_obj[code] = int(v0)
+                    except Exception:
+                        try:
+                            attributes_obj[code] = float(v0)
+                        except Exception:
+                            attributes_obj[code] = str(v0)
 
-    if found_brand_id:
-        attributes_obj["brand"] = int(found_brand_id)
+        if found_brand_id:
+            attributes_obj["brand"] = int(found_brand_id)
 
-    images = {}
-    for i, u in enumerate(image_urls):
-        images["main" if i == 0 else str(i - 1)] = u
+        images = {}
+        for i, u in enumerate(image_urls):
+            images["main" if i == 0 else str(i - 1)] = u
 
-    offer = {
-        "seller_product_code": sku,
-        "status": 1,
-        "price": price,
-        "min_selling_price": price,
-        "vat": vat,
-        "min_delivery_interval": 5,
-        "max_delivery_interval": 5,
-        "stock": stock,
-    }
-    product_payload = {
-        "attribute_set_id": int(set_id),
-        "category_ids": [int(chosen_cat["codes"][-1])],
-        "ean": str(ean),
-        "name": title,
-        "description": description,
-        "attributes": attributes_obj,
-        "images": images,
-        "offer": offer,
-    }
-    products = {"0": product_payload}
+        offer = {
+            "seller_product_code": sku,
+            "status": 1,
+            "price": price,
+            "min_selling_price": price,
+            "vat": vat,
+            "min_delivery_interval": 5,
+            "max_delivery_interval": 5,
+            "stock": stock,
+        }
+        product_payload = {
+            "attribute_set_id": int(set_id),
+            "category_ids": [int(chosen_cat["codes"][-1])],
+            "ean": str(ean),
+            "name": title,
+            "description": description,
+            "attributes": attributes_obj,
+            "images": images,
+            "offer": offer,
+        }
+        products = {"0": product_payload}
 
-    status, resp = altex_req("POST", "/v2.0/catalog/product/", body=products, timeout=120)
-    print(f"  POST HTTP {status}: {json.dumps(resp, ensure_ascii=False)[:400]}", flush=True)
+        status, resp = altex_req("POST", "/v2.0/catalog/product/", body=products, timeout=120)
+        last_status, last_resp = status, resp
+        print(f"  POST HTTP {status}: {json.dumps(resp, ensure_ascii=False)[:400]}", flush=True)
 
-    if status >= 400:
-        # EAN already exists => treat as success (re-run)
-        err_text = json.dumps(resp, ensure_ascii=False).lower()
-        if "already exists" in err_text and "ean" in err_text:
-            print("  EAN already on Altex — treating as success", flush=True)
-        else:
-            return False, f"http_{status}"
+        if status >= 400:
+            err_text = json.dumps(resp, ensure_ascii=False).lower()
+            if "already exists" in err_text and "ean" in err_text:
+                print("  EAN already on Altex — treating as success", flush=True)
+            elif status == 403 and "no allowed categories" in err_text:
+                print("  category rejected by Altex — trying next candidate", flush=True)
+                continue
+            else:
+                return False, f"http_{status}"
 
-    # Verify
-    time.sleep(3)
-    status2, resp2 = altex_req("GET", "/v2.0/catalog/product", params=[("ean", ean)])
-    items_v = (resp2.get("data") or {}).get("items") or []
-    found = next(
-        (i for i in items_v
-         if i.get("ean") and ean in (i["ean"] if isinstance(i["ean"], list) else [i["ean"]])),
-        None,
-    )
-    if not found:
-        return False, "verify_not_found"
-    print(f"  VERIFIED altex_id={found.get('id')} approval={found.get('approval_status')}", flush=True)
-    return True, found.get("id")
+        # Verify
+        time.sleep(3)
+        status2, resp2 = altex_req("GET", "/v2.0/catalog/product", params=[("ean", ean)])
+        items_v = (resp2.get("data") or {}).get("items") or []
+        found = next(
+            (i for i in items_v
+             if i.get("ean") and ean in (i["ean"] if isinstance(i["ean"], list) else [i["ean"]])),
+            None,
+        )
+        if not found:
+            return False, "verify_not_found"
+        print(f"  VERIFIED altex_id={found.get('id')} approval={found.get('approval_status')}", flush=True)
+        return True, found.get("id")
+
+    return False, f"http_{last_status}_all_categories_rejected"
 
 
 # ==================== Main ====================
